@@ -255,3 +255,9 @@ A generalist might be responsible for a:
 - and usability testing,
 - among other things. Most generalists start their roles knowing about one or two of these topics.
 - [The role of a beginner UX designer](https://www.coursera.org/learn/foundations-user-experience-design/supplement/5O2hO/the-role-of-a-beginner-ux-designer")
+![image](https://user-images.githubusercontent.com/11480617/199207966-48dcd18d-65ef-4826-b4d1-92abbcd406de.png)
+![image](https://user-images.githubusercontent.com/11480617/199211021-f6acf742-63b2-4d0f-b096-5e4f2e774ed0.png)
+
+- [Interact with cross-functional teammates](https://www.coursera.org/learn/foundations-user-experience-design/supplement/kDYfX/interact-with-cross-functional-teammates")
+- [The influence of company size and industry](https://www.coursera.org/learn/foundations-user-experience-design/supplement/VZoef/the-influence-of-company-size-and-industry")
+
