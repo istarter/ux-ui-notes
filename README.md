@@ -235,9 +235,23 @@ Every new product, whether it’s an app or a physical object, follows a specifi
 - [Good Design](https://design.google/library/good-design/")
 
 ### Responsibilities of entry-level UX designers
-- Researching 
-- wireframing
-- prototyping
-- creating information architecture
+- Researching: UX designers use research to understand audiences and learn about their backgrounds; demographics, like age and location; motivations; pain points; emotions; and life goals.
+- wireframing: An entry-level designer also creates wireframes. A wireframe is an outline or a sketch of a product or a screen.
+- prototyping: A UX designer will also create prototypes. A prototype is an early model of a product that demonstrates functionality, like a wireframe, but a lot more advanced. While a wireframe gives you a general idea of where things go and how the product will function, a prototype illustrates a progression from one screen to the next.
+- creating information architecture: Another responsibility of an entry-level UX designer might include creating the information architecture, which is the framework of a website, or how it's organized, categorized, and structured. For example, when you click the File menu on a word processing application like Google Docs, you expect certain options, like New or Print, to appear in the dropdown menu. Or when you click on a company's homepage, you expect to find a link to an About page. That structure is the website's information architecture.
 - communicating effectively
 - Entry-level UX designers start their careers by doing a lot of tasks to learn the basics.
+
+Generalist Designer: A UX designer with a broad number of responsiblities. 
+A generalist might be responsible for a: 
+- combination of user research,
+- branding,
+- user flows,
+- UX writing,
+- visual design,
+- prototyping,
+- production design,
+- information architecture,
+- and usability testing,
+- among other things. Most generalists start their roles knowing about one or two of these topics.
+- [The role of a beginner UX designer](https://www.coursera.org/learn/foundations-user-experience-design/supplement/5O2hO/the-role-of-a-beginner-ux-designer")
