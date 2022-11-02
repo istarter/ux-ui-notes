@@ -1,8 +1,13 @@
 
 # UX/UI Design 
 
-### Theory
+### Theory UX Research
+User experience research is the systematic investigation of your users in order to gather insights that will inform the design process. With the help of various user research techniques, you’ll set out to understand your users’ needs, attitudes, pain-points, and behaviors (processes like task analyses look at how users actually navigate the product experience—not just how they should or how they say they do). 
+
+Typically done at the start of a project—but also extremely valuable throughout—it encompasses different types of research methodology to gather both qualitative and quantitative data in relation to your product or service.
 What is UX design? You scroll through a website or you tap on a button and something happens. I design what happens. or define yourself as a designer who simply understand your work: I design apps by doing research and what user needs.
+
+[What Is User Research, and What’s Its Purpose?](https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it/")
 
 ### Points
 1. Thougts create patterns
@@ -261,3 +266,18 @@ A generalist might be responsible for a:
 - [Interact with cross-functional teammates](https://www.coursera.org/learn/foundations-user-experience-design/supplement/kDYfX/interact-with-cross-functional-teammates")
 - [The influence of company size and industry](https://www.coursera.org/learn/foundations-user-experience-design/supplement/VZoef/the-influence-of-company-size-and-industry")
 
+
+### Week 2 
+
+![image](https://user-images.githubusercontent.com/11480617/199458326-f56cf44e-6262-44e9-a821-42558a4bb84a.png)
+
+- ***Who are my users?***: To reach as many users as possible, you’ll consider questions such as these as part of your user research approach:
+
+ - Do my users have impairments or disabilities to consider–whether temporary, situational, or permanent?
+ - How familiar are my users with technology?
+ - How are my users accessing the product or service?
+ - Where and when are my users accessing the product or service?
+ - Have I considered all my potential users?
+
+[What Is User Research, and What’s Its Purpose?](https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it/")
+[Design Thinking: A UX design framework](https://www.coursera.org/learn/foundations-user-experience-design/supplement/dERny/design-thinking-a-ux-design-framework")
