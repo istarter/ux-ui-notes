@@ -279,5 +279,13 @@ A generalist might be responsible for a:
  - Where and when are my users accessing the product or service?
  - Have I considered all my potential users?
 
-[What Is User Research, and What’s Its Purpose?](https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it/")
-[Design Thinking: A UX design framework](https://www.coursera.org/learn/foundations-user-experience-design/supplement/dERny/design-thinking-a-ux-design-framework")
+- [What Is User Research, and What’s Its Purpose?](https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it/")
+- [Design Thinking: A UX design framework](https://www.coursera.org/learn/foundations-user-experience-design/supplement/dERny/design-thinking-a-ux-design-framework")
+- [Optional - Additional resources on designing for accessibility](https://www.coursera.org/learn/foundations-user-experience-design/supplement/m9u1P/optional-additional-resources-on-designing-for-accessibility")
+
+### Design Sprints
+The goal of design sprints is to solve a critical design challenge through designing, prototyping, and testing ideas with users. At Google, we use design sprints to answer questions, define product directions, figure out cross-team strategies, and even build team culture.
+
+![image](https://user-images.githubusercontent.com/11480617/199756700-31209ac3-16ac-4b3c-8151-bf63ecbe95c7.png)
+![image](https://user-images.githubusercontent.com/11480617/199757465-42d60c70-0f12-46fa-96cc-aee6f516d91e.png)
+
