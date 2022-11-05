@@ -292,3 +292,5 @@ The goal of design sprints is to solve a critical design challenge through desig
 To recap the five phases of design sprints are: understand the scope of the design challenge, ideate possible solutions, decide on the most viable solution, create a workable prototype, and finally, test that prototype with actual users.
 ![image](https://user-images.githubusercontent.com/11480617/200122955-9b3919cd-78ee-497c-9216-4fd011983ed6.png)
 
+- [Important design sprints templates and tools](https://www.coursera.org/learn/foundations-user-experience-design/supplement/oqyYq/optional-learn-more-about-design-sprints")
+
