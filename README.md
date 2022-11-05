@@ -284,8 +284,11 @@ A generalist might be responsible for a:
 - [Optional - Additional resources on designing for accessibility](https://www.coursera.org/learn/foundations-user-experience-design/supplement/m9u1P/optional-additional-resources-on-designing-for-accessibility")
 
 ### Design Sprints
-The goal of design sprints is to solve a critical design challenge through designing, prototyping, and testing ideas with users. At Google, we use design sprints to answer questions, define product directions, figure out cross-team strategies, and even build team culture.
+The goal of design sprints is to solve a critical design challenge through designing, prototyping, and testing ideas with users. At Google, we use design sprints to answer questions, define product directions, figure out cross-team strategies, and even build team culture. The Design Sprint is a proven methodology for solving problems through designing, prototyping, and testing ideas with users. Design Sprints quickly align teams under a shared vision with clearly defined goals and deliverables. Ultimately, it is a tool for developing a hypothesis, prototyping an idea, and testing it rapidly with as little investment as possible in as real an environment as possible.
 
 ![image](https://user-images.githubusercontent.com/11480617/199756700-31209ac3-16ac-4b3c-8151-bf63ecbe95c7.png)
 ![image](https://user-images.githubusercontent.com/11480617/199757465-42d60c70-0f12-46fa-96cc-aee6f516d91e.png)
+
+To recap the five phases of design sprints are: understand the scope of the design challenge, ideate possible solutions, decide on the most viable solution, create a workable prototype, and finally, test that prototype with actual users.
+![image](https://user-images.githubusercontent.com/11480617/200122955-9b3919cd-78ee-497c-9216-4fd011983ed6.png)
 
