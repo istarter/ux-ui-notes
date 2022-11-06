@@ -286,6 +286,17 @@ A generalist might be responsible for a:
 ### Design Sprints
 The goal of design sprints is to solve a critical design challenge through designing, prototyping, and testing ideas with users. At Google, we use design sprints to answer questions, define product directions, figure out cross-team strategies, and even build team culture. The Design Sprint is a proven methodology for solving problems through designing, prototyping, and testing ideas with users. Design Sprints quickly align teams under a shared vision with clearly defined goals and deliverables. Ultimately, it is a tool for developing a hypothesis, prototyping an idea, and testing it rapidly with as little investment as possible in as real an environment as possible.
 
+- ***Understand***: In the Understand phase, you will create a shared knowledge base across all participants. Using the Lightning Talk method, knowledge experts across the business are invited to articulate the problem space from business, user, competitor, and technological angles.
+- ***Define***: In the Define phase, the team evaluates everything they learned in the Understand phase to establish focus. This is done by defining specific context and desired outcomes of potential solutions. The phase concludes by choosing a specific focus for your Sprint, as well as goals, success metrics, and signals.
+- ***Sketch***: In the Sketch phase, the Design Sprint team generates and shares a broad range of ideas as individuals. You will start by looking for inspiration, such as solutions in alternative spaces. Then, each Design Sprint participant will individually generate ideas for consideration. From there, the team will narrow down ideas as group to a single, well-articulated Solution Sketch per person.
+- ***Decide***: In the Decide phase, the Design Sprint team finalizes the direction or concept to be prototyped. Each participant will share their Solution Sketch, and the team will find consensus on a single idea through decision-making exercises. The final direction will aim to address the Design Sprint focus.
+- ****Prototype: In the Prototype phase, the Design Sprint team will work together to create a prototype of your concept. This is when many decisions are made around what exactly the concept is and includes. You will aim to create a prototype that is just real enough to validate, and you will do it really fast!
+
+In the context of Design Sprint, we use the word “prototype” in a slightly different way than in standard product development. A Design Sprint prototype is a facade of the experience you have envisioned in the Sketch phase. You are building just what you need to make the prototype real enough to get an authentic response from a potential user in the Validate phase. This means mapping out the exact flow for the experience and only building the steps you want to test. There is no need to build a full functional back-end or to solve for every flow in your product.
+
+You can think of your prototype as an experiment in order to test out a hypothesis. This means you have to think critically about what you will build in order to get the feedback you need to validate or invalidate your hypothesis. Anything can be prototyped in a day if it is clearly mapped out.
+- ***Validate***: In the Validate phase, the Design Sprint team will put your concept in front of users - this is your moment of truth! You will gather feedback from users who interact with your prototype, and if relevant, you will conduct stakeholder and technical feasibility reviews. You’ll end your Sprint with a validated concept– or an invalidated concept to improve on. Either way, you’ve made progress.
+
 ![image](https://user-images.githubusercontent.com/11480617/199756700-31209ac3-16ac-4b3c-8151-bf63ecbe95c7.png)
 ![image](https://user-images.githubusercontent.com/11480617/199757465-42d60c70-0f12-46fa-96cc-aee6f516d91e.png)
 
@@ -293,4 +304,15 @@ To recap the five phases of design sprints are: understand the scope of the desi
 ![image](https://user-images.githubusercontent.com/11480617/200122955-9b3919cd-78ee-497c-9216-4fd011983ed6.png)
 
 - [Important design sprints templates and tools](https://www.coursera.org/learn/foundations-user-experience-design/supplement/oqyYq/optional-learn-more-about-design-sprints")
+- ![image](https://user-images.githubusercontent.com/11480617/200174368-bd20894d-2892-4b74-9643-b2876a679612.png)
+- Let's recap the sprint planning basics. To prepare for a design sprint, you'll need to conduct user research, schedule talks with experts, find the right space, gather supplies, establish ground rules, break the ice with your team, and plan out post-sprint action items. Sound about right? Awesome. Let's keep going. Up next, we'll walk through a design sprint brief.
 
+![image](https://user-images.githubusercontent.com/11480617/200176024-65111d3d-ac62-4916-b013-02ab92e262c0.png)
+
+- Let's recap the sprint planning basics. To prepare for a design sprint, you'll need to conduct user research, schedule talks with experts, find the right space, gather supplies, establish ground rules, break the ice with your team, and plan out post-sprint action items. Sound about right? Awesome. Let's keep going. Up next, we'll walk through a design sprint brief.
+
+### Retrospective
+A collaborative critique of the team's design sprint. Key questions in a retrospective are: 
+- What went well? 
+- What can be improved? 
+- [Common retrospective questions](https://www.coursera.org/learn/foundations-user-experience-design/supplement/aVnwU/common-retrospective-questions")
