@@ -317,3 +317,32 @@ A collaborative critique of the team's design sprint. Key questions in a retrosp
 - What can be improved? 
 - [Common retrospective questions](https://www.coursera.org/learn/foundations-user-experience-design/supplement/aVnwU/common-retrospective-questions")
 - [Glossory of Week 3](https://docs.google.com/document/d/15_GbZNrOf0loKN4OYusTnw-LnzLVwcygHVkXehJrOR4/template/preview?resourcekey=0-edthVvLsSje5gUdUkQlYiQ")
+
+### Week 4 Understand the role of research in design
+UX research focuses on understanding user behaviors, needs, and motivations through observation and feedback. Your product design should be built upon research and facts, not assumptions. UX research aligns what you, as the designer, think the user needs with what the user actually needs. 
+
+![image](https://user-images.githubusercontent.com/11480617/200273910-83110b42-eda8-40d2-abb4-17dfd8ff4f0d.png)
+![image](https://user-images.githubusercontent.com/11480617/200274607-8f6cbe29-2ff1-44cb-81c7-40fe4bb9b43f.png)
+![image](https://user-images.githubusercontent.com/11480617/200281753-464ecb34-ac77-4fd2-8373-6327de8ca894.png)
+
+There are lots of research methods for conducting foundational research, but many of them are based on observations. Common foundational research methods include: 
+
+- Interviews: A research method used to collect in-depth information on people's opinions, thoughts, experiences, and feelings. You’ll often conduct interviews of your target users themselves.
+- Surveys: An activity where many people are asked the same questions in order to understand what most people think about a product.
+- Focus groups: A small group of people whose reactions are studied. For example, your focus group might bring together eight users to discuss their perspectives about new features in your design. A focus group is usually run by a moderator who guides the group on a certain topic of conversation. 
+- Competitive audit: An overview of your competitors’ strengths and weaknesses. You'll conduct your own competitive audit later in the course, so you will understand this research method well! 
+- Field studies: Research activities that take place in the user's context or personal environment, rather than in an office or lab. 
+- Diary studies: A research method used to collect qualitative data about user behaviors, activities, and experiences over time. Often, a user will log, or diary, about their daily activities and provide information about their behaviors and needs, which can help inform your designs. 
+- ***Foundation Research:*** Foundational research is always done before you start designing. Within the product development life cycle, foundational research happens during the brainstorm stage (stage one) to help you empathize with users, understand their needs, and inspire new design directions. During this stage, you will also make personas and user stories, which you'll learn about soon.
+Questions you might consider during foundational research include:
+   - What should we build?
+   - What are the user’s problems?
+   - How can we solve those problems?
+   - Am I aware of my own biases, and am I able to filter them as I do research?
+- ***Design Research:*** Design research is done while you design. Within the product development lifecycle, design research happens during the design stage (stage three) to help inform your designs, to fit the needs of users, and to reduce risk. Each time you create a new version of your design, new research should be done to evaluate what works well and what needs to be changed. 
+- ***Post-launch research***: Post-launch research is done after the design is complete and your product has launched. Within the product development life cycle, post-launch research happens after the launch stage (stage five) to help validate that the product is meeting user needs through established metrics.
+- [Further Reading UX research](https://www.coursera.org/learn/foundations-user-experience-design/supplement/2oADC/learn-more-about-ux-research")
+- [Important research Methods](https://www.coursera.org/learn/foundations-user-experience-design/supplement/Rm7m2/learn-more-about-research-methods")
+- [Nielsen Norman Group How, When and Why to concudt interview](https://www.nngroup.com/articles/user-interviews")
+- [Conducting Survy Best Article](https://www.usability.gov/how-to-and-tools/methods/online-surveys.html")
+ 
