@@ -316,3 +316,4 @@ A collaborative critique of the team's design sprint. Key questions in a retrosp
 - What went well? 
 - What can be improved? 
 - [Common retrospective questions](https://www.coursera.org/learn/foundations-user-experience-design/supplement/aVnwU/common-retrospective-questions")
+- [Glossory of Week 3](https://docs.google.com/document/d/15_GbZNrOf0loKN4OYusTnw-LnzLVwcygHVkXehJrOR4/template/preview?resourcekey=0-edthVvLsSje5gUdUkQlYiQ")
