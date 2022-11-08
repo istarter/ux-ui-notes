@@ -346,3 +346,9 @@ Questions you might consider during foundational research include:
 - [Nielsen Norman Group How, When and Why to concudt interview](https://www.nngroup.com/articles/user-interviews")
 - [Conducting Survy Best Article](https://www.usability.gov/how-to-and-tools/methods/online-surveys.html")
  
+###  Identify Baises in UX Research 
+To begin, let's define the word bias. In short, a bias is favoring or having prejudice against something based on limited information. It's like making up your mind about someone before you've really gotten to know them. We all have biases, and they're often unconscious.
+- ***Confirmation Bias***: This bias occurs when you start looking for evidence to prove a hypothesis you have. Because you think you already have the answer, you're drawn to information that confirms your beliefs and preconceptions. Let's say you have the preconception that left-handed people are more creative than right-handed people. As you research, you'll tend to gravitate toward evidence that supports this belief, and you'll use it to build your case, even though it's not necessarily true.
+- [Further Biases topic](https://www.coursera.org/learn/foundations-user-experience-design/lecture/RHaap/identify-types-of-bias-in-ux-research")
+![image](https://user-images.githubusercontent.com/11480617/200528164-115c8385-13ea-4fb5-8197-10467d2ab7dd.png)
+- [Learn more about bias in UX research](https://www.coursera.org/learn/foundations-user-experience-design/supplement/58avy/learn-more-about-bias-in-ux-research")
