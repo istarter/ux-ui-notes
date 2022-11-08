@@ -352,3 +352,4 @@ To begin, let's define the word bias. In short, a bias is favoring or having pre
 - [Further Biases topic](https://www.coursera.org/learn/foundations-user-experience-design/lecture/RHaap/identify-types-of-bias-in-ux-research")
 ![image](https://user-images.githubusercontent.com/11480617/200528164-115c8385-13ea-4fb5-8197-10467d2ab7dd.png)
 - [Learn more about bias in UX research](https://www.coursera.org/learn/foundations-user-experience-design/supplement/58avy/learn-more-about-bias-in-ux-research")
+- [More about Biase in UX](https://medium.com/@genis.hti/bias-in-ux-research-ba1e6e61a50d")
