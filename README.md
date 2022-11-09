@@ -353,3 +353,18 @@ To begin, let's define the word bias. In short, a bias is favoring or having pre
 ![image](https://user-images.githubusercontent.com/11480617/200528164-115c8385-13ea-4fb5-8197-10467d2ab7dd.png)
 - [Learn more about bias in UX research](https://www.coursera.org/learn/foundations-user-experience-design/supplement/58avy/learn-more-about-bias-in-ux-research")
 - [More about Biase in UX](https://medium.com/@genis.hti/bias-in-ux-research-ba1e6e61a50d")
+
+
+### Course 2 UX Design Process Empathize, Define, and Ideate
+But when you think about empathy in relation to similar words, like pity and sympathy, the meaning can get a little blurry. So let's break it down. When you have pity for someone, you feel sorry for them. But pity usually has condescending overtones. Think about it like this. Pitiful and pathetic are synonyms. When you have sympathy for someone, you acknowledge their feelings, but you keep yourself from experiencing those feelings.
+Empathy goes beyond sympathy. When you empathize with someone, you share their mental and emotional experiences. Empathy is at the core of everything we do. Approaching UX research with empathy makes it easier for you to solve the right problem. Like anyone else, UX designers make a lot of assumptions, but UX design is not about solving problems we assume users want solved. It's about solving problems that users actually want solved.
+
+- [Understand empathy in UX design](https://www.coursera.org/learn/start-ux-design-process/supplement/hMyDG/understand-empathy-in-ux-design")
+
+![image](https://user-images.githubusercontent.com/11480617/200786224-03ab39ff-82cf-47c6-a75f-fca3ffc0bd6a.png)
+
+- Interview Goal
+![image](https://user-images.githubusercontent.com/11480617/200786493-bc994806-855d-4f79-9862-cc1b7dcba4d2.png)
+![image](https://user-images.githubusercontent.com/11480617/200788139-8fa12d5e-9344-46dd-bfbf-948e09749117.png)
+
+
