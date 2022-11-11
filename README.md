@@ -355,7 +355,7 @@ To begin, let's define the word bias. In short, a bias is favoring or having pre
 - [More about Biase in UX](https://medium.com/@genis.hti/bias-in-ux-research-ba1e6e61a50d")
 
 
-### Course 2 UX Design Process Empathize, Define, and Ideate
+## Course 2 UX Design Process Empathize, Define, and Ideate
 But when you think about empathy in relation to similar words, like pity and sympathy, the meaning can get a little blurry. So let's break it down. When you have pity for someone, you feel sorry for them. But pity usually has condescending overtones. Think about it like this. Pitiful and pathetic are synonyms. When you have sympathy for someone, you acknowledge their feelings, but you keep yourself from experiencing those feelings.
 Empathy goes beyond sympathy. When you empathize with someone, you share their mental and emotional experiences. Empathy is at the core of everything we do. Approaching UX research with empathy makes it easier for you to solve the right problem. Like anyone else, UX designers make a lot of assumptions, but UX design is not about solving problems we assume users want solved. It's about solving problems that users actually want solved.
 
@@ -367,4 +367,25 @@ Empathy goes beyond sympathy. When you empathize with someone, you share their m
 ![image](https://user-images.githubusercontent.com/11480617/200786493-bc994806-855d-4f79-9862-cc1b7dcba4d2.png)
 ![image](https://user-images.githubusercontent.com/11480617/200788139-8fa12d5e-9344-46dd-bfbf-948e09749117.png)
 
+### Empathize with user
+- [Activity Examplar Define research goals and questions](https://www.coursera.org/learn/start-ux-design-process/supplement/SMhZK/activity-exemplar-define-your-research-goals-and-questions")
+- Find and recruit interview participants, Screening participants often requires collecting demographics, which are the characteristics of a group or individual. Demographics that you might ask about in a screener survey include:
+   - Age
+   - Geographic location 
+   - Job title or industry 
+   - Gender
+
+![image](https://user-images.githubusercontent.com/11480617/201318681-80c22458-bd6e-4c22-8943-e0f603864355.png)
+![image](https://user-images.githubusercontent.com/11480617/201317719-cbdac54e-31c7-4b78-8525-02a8c77164b6.png)
+![image](https://user-images.githubusercontent.com/11480617/201318376-6f6e66e2-8883-4d2a-9ebc-b455c7a96c8a.png)
+
+- [Conduct user interviews](https://www.coursera.org/learn/start-ux-design-process/supplement/fur1q/optional-conduct-user-interviews")
+- [Reen Empathy exercise](https://docs.google.com/document/d/1OK2DvlpyblFNgQ902h1HNnTG-0oF87pskG2-8yjrZ2c/edit#")
+
+### Empathy Map
+
+ ![image](https://user-images.githubusercontent.com/11480617/201366272-08075010-5589-4e21-bcfa-7a48dad55945.png)
+ ![image](https://user-images.githubusercontent.com/11480617/201368148-8c94207f-985a-4007-9ec0-f577a713a6e8.png)
+ ![image](https://user-images.githubusercontent.com/11480617/201368275-e2aa272a-b130-4081-92fe-88803485adb9.png)
+ ![image](https://user-images.githubusercontent.com/11480617/201368891-4791e6cc-d698-47bc-98b8-338419ea47b1.png)
 
