@@ -388,4 +388,18 @@ Empathy goes beyond sympathy. When you empathize with someone, you share their m
  ![image](https://user-images.githubusercontent.com/11480617/201368148-8c94207f-985a-4007-9ec0-f577a713a6e8.png)
  ![image](https://user-images.githubusercontent.com/11480617/201368275-e2aa272a-b130-4081-92fe-88803485adb9.png)
  ![image](https://user-images.githubusercontent.com/11480617/201368891-4791e6cc-d698-47bc-98b8-338419ea47b1.png)
+ ![image](https://user-images.githubusercontent.com/11480617/201474432-9b117f3f-ebd0-4c0d-9fe4-57e9af6f343e.png)
 
+
+- [Further Reading by nordmon group](https://www.nngroup.com/articles/empathy-mapping")
+- [Build an empathy map](https://www.coursera.org/learn/start-ux-design-process/supplement/c6GCS/build-an-empathy-map")
+
+![image](https://user-images.githubusercontent.com/11480617/201481147-3f6dd745-db07-4a91-833a-4f3d32eede84.png)
+![image](https://user-images.githubusercontent.com/11480617/201482182-035002a5-678b-4a96-beea-a0ea42fc7aa2.png)
+![image](https://user-images.githubusercontent.com/11480617/201482212-c3a24cda-04a4-46b5-9307-353619104e62.png)
+
+- ***Understand Persona***:  A user group is a set of people who have similar interests, goals, or concerns. Now that we've identified a solid user group, let's build a persona to represent it.
+
+![image](https://user-images.githubusercontent.com/11480617/201482676-fd287e5e-a098-48fa-978a-b8c81b580bd5.png)
+
+- [Learn more about personas with templates](https://www.coursera.org/learn/start-ux-design-process/supplement/WMeZK/learn-more-about-personas")
