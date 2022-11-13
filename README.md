@@ -403,3 +403,14 @@ Empathy goes beyond sympathy. When you empathize with someone, you share their m
 ![image](https://user-images.githubusercontent.com/11480617/201482676-fd287e5e-a098-48fa-978a-b8c81b580bd5.png)
 
 - [Learn more about personas with templates](https://www.coursera.org/learn/start-ux-design-process/supplement/WMeZK/learn-more-about-personas")
+- [Exemplar create personas for the coffeHouse project](https://www.coursera.org/learn/start-ux-design-process/supplement/8gTyx/exemplar-create-personas-for-the-coffeehouse-project")
+- [Create personas for your portfolio project](https://www.coursera.org/learn/start-ux-design-process/peer/BiPYp/weekly-challenge-1-create-personas-for-your-portfolio-project")
+
+### User Story
+- A fictional one-sentence story told from the person's point of view to inspire and inform design decisoins. 
+- [Learn more about user stories](https://www.coursera.org/learn/start-ux-design-process/supplement/97qJ5/learn-more-about-user-stories")
+![image](https://user-images.githubusercontent.com/11480617/201540682-1779a10f-0185-4e5f-b1fd-a0b69a60be20.png)
+![image](https://user-images.githubusercontent.com/11480617/201540757-c6e5685f-32ac-47d3-b0a9-ae32420311fa.png)
+![image](https://user-images.githubusercontent.com/11480617/201544024-a27cddb0-8539-4e49-a69d-a61909e329a8.png)
+
+
