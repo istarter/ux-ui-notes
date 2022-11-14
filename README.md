@@ -413,4 +413,18 @@ Empathy goes beyond sympathy. When you empathize with someone, you share their m
 ![image](https://user-images.githubusercontent.com/11480617/201540757-c6e5685f-32ac-47d3-b0a9-ae32420311fa.png)
 ![image](https://user-images.githubusercontent.com/11480617/201544024-a27cddb0-8539-4e49-a69d-a61909e329a8.png)
 
+- User stories help teams:
+   - Prioritize design goals
+   - Unite around a clear goal
+   - Take a user-centered approach and make empathetic design decisions
+   - Make convincing pitches to stakeholders by demonstrating how the updates will help specific types of people
+- [Example of user stories for the CoffeeHouse project](https://www.coursera.org/learn/start-ux-design-process/supplement/HoT8B/activity-exemplar-craft-user-stories-for-the-coffeehouse-project")
 
+![image](https://user-images.githubusercontent.com/11480617/201737749-4d12ba86-125c-4f9d-ad67-ee3ea5bc43f0.png)
+![image](https://user-images.githubusercontent.com/11480617/201737785-449a7609-f15a-4057-8ced-2f07e5b9524d.png)
+
+- Now compare the examples above to your completed user stories. Assess what you’ve done using each of the criteria below to evaluate the examples. Does your user story clearly identify the:
+   - Type of user?
+   - The “action” that the user hopes will happen?
+   - The “benefit” the user would receive if the action happens? 
+   - If so, great work! If not, reread the instructions and craft another user story with these criteria in mind.
