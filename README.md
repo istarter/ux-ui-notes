@@ -405,6 +405,8 @@ Empathy goes beyond sympathy. When you empathize with someone, you share their m
 - [Learn more about personas with templates](https://www.coursera.org/learn/start-ux-design-process/supplement/WMeZK/learn-more-about-personas")
 - [Exemplar create personas for the coffeHouse project](https://www.coursera.org/learn/start-ux-design-process/supplement/8gTyx/exemplar-create-personas-for-the-coffeehouse-project")
 - [Create personas for your portfolio project](https://www.coursera.org/learn/start-ux-design-process/peer/BiPYp/weekly-challenge-1-create-personas-for-your-portfolio-project")
+- ![image](https://user-images.githubusercontent.com/11480617/202284397-38aa2642-81bc-4d5e-8c40-0d912dada025.png)
+
 
 ### User Story
 - A fictional one-sentence story told from the person's point of view to inspire and inform design decisoins. 
@@ -463,6 +465,19 @@ Empathy goes beyond sympathy. When you empathize with someone, you share their m
      - Process, which are pain points related to the user’s journey. 
      - Support, which are pain points related to getting help from customer service.
 - [Define problem statements](https://www.coursera.org/learn/start-ux-design-process/supplement/DDRka/define-problem-statements")
+- [Best articles to read to know the Define or User Problem](https://www.coursera.org/learn/start-ux-design-process/supplement/iazMQ/optional-learn-more-about-defining-user-problems")
 
 ![image](https://user-images.githubusercontent.com/11480617/202138278-43659f45-b0cc-4e4a-8f99-cf69f5ab8f50.png)
 ![image](https://user-images.githubusercontent.com/11480617/202139430-569aea49-5747-4a87-a279-79e5883b5413.png)
+
+#### Define Hypothesis Statements
+
+In UX design, we write possible solutions to the problem as hypothesis statements. A hypothesis statement writes out our best educated guess on what we think the solution to a design problem might be.
+
+- [Define hypothesis statements](https://www.coursera.org/learn/start-ux-design-process/supplement/h0z9K/define-hypothesis-statements")
+- A strong problem statement meets these criteria:
+   - It’s human-centered.
+   - It’s broad enough for creative freedom.
+   - It’s narrow enough to be solved by a practical design solution.
+![image](https://user-images.githubusercontent.com/11480617/202281553-f9e94370-8f38-41c9-a536-7610209b17a7.png)
+![image](https://user-images.githubusercontent.com/11480617/202284532-42920472-a445-43fe-b574-0191305a5c90.png)
