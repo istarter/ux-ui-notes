@@ -428,3 +428,41 @@ Empathy goes beyond sympathy. When you empathize with someone, you share their m
    - The “action” that the user hopes will happen?
    - The “benefit” the user would receive if the action happens? 
    - If so, great work! If not, reread the instructions and craft another user story with these criteria in mind.
+- [Example for the portfolio project](https://www.coursera.org/learn/start-ux-design-process/supplement/7bY5J/activity-exemplar-craft-user-stories-for-your-portfolio-project")
+
+![image](https://user-images.githubusercontent.com/11480617/201864391-119169ea-9550-4062-b0ae-ab3384a960f0.png)
+![image](https://user-images.githubusercontent.com/11480617/201870189-52a1b73a-ff13-46df-8cdf-9231181b83d9.png)
+
+
+### User Journey Map
+
+- A user journey is the series of experiences a user has as they achieve a specific goal. User journeys built off the personas and stories you've already created. They help you think and feel like the user, which is super important. If you can't put yourself in the user's shoes, you can't be sure your design will really help them.
+- [User Journey Making](https://www.coursera.org/learn/start-ux-design-process/quiz/uvuQP/practice-activity-create-user-journey-maps-for-the-coffeehouse-project/attempt")
+- ![image](https://user-images.githubusercontent.com/11480617/201877194-514c5bb2-2d82-4cf0-a5ac-b6c74785ac70.png)
+
+- A user journey is the series of experiences a user has as they achieve a specific goal. User journeys built off the personas and stories you've already created. They help you think and feel like the user, which is super important. If you can't put yourself in the user's shoes, you can't be sure your design will really help them.
+- [Consider accessibility during user research](https://www.coursera.org/learn/start-ux-design-process/supplement/u9i78/consider-accessibility-during-user-research")
+![image](https://user-images.githubusercontent.com/11480617/202125565-014f9983-c0cd-46f0-a440-466c1f2eabf4.png)
+
+
+#### 4 Steps before creating user journey map
+![image](https://user-images.githubusercontent.com/11480617/202004685-f188782c-deef-46de-80f2-83db85f8a259.png)
+
+
+## Week 3 Define Problem and hypthesis 
+
+![image](https://user-images.githubusercontent.com/11480617/202135163-6f88be75-561e-4c21-9cb1-f3620a16e994.png)
+![image](https://user-images.githubusercontent.com/11480617/202135223-8ea16f2c-bce9-441c-8950-b59f9ebff058.png)
+
+#### Define problem statements
+
+- Identifying the problems that users face is one of the most important parts of UX design. But as critical as research is to the UX design process, some of your work will still require a small amount of “mind reading” about the user’s experience. That might seem like it’s contradicting the rule of never making assumptions, but sometimes users just won’t feel comfortable or know how to express exactly what their problem is and how it affects them. In this reading, you’ll learn how to define unspoken pain points and use them to form strong problem statements.
+- You learned earlier that there are four categories pain points can fall into: 
+     - Financial, or money-related pain points. 
+     - Product, which are pain points related to quality issues. 
+     - Process, which are pain points related to the user’s journey. 
+     - Support, which are pain points related to getting help from customer service.
+- [Define problem statements](https://www.coursera.org/learn/start-ux-design-process/supplement/DDRka/define-problem-statements")
+
+![image](https://user-images.githubusercontent.com/11480617/202138278-43659f45-b0cc-4e4a-8f99-cf69f5ab8f50.png)
+![image](https://user-images.githubusercontent.com/11480617/202139430-569aea49-5747-4a87-a279-79e5883b5413.png)
