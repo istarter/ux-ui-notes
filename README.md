@@ -481,3 +481,39 @@ In UX design, we write possible solutions to the problem as hypothesis statement
    - It’s narrow enough to be solved by a practical design solution.
 ![image](https://user-images.githubusercontent.com/11480617/202281553-f9e94370-8f38-41c9-a536-7610209b17a7.png)
 ![image](https://user-images.githubusercontent.com/11480617/202284532-42920472-a445-43fe-b574-0191305a5c90.png)
+
+***Build value propositions***
+Everything that your product has to offer might seem obvious to you, but you have to put yourself in the mind of your users. Users don’t know your product or understand its value yet. That’s where value propositions come in. 
+To start, you need to do some research in order to answer these two questions:
+   - What does your product do? Clearly explain the offering that your product provides users. 
+   - Why should the user care? Describe how your product addresses users’ pain points.
+
+Once you’ve answered these questions, you can follow a series of steps to focus in on your product’s unique value proposition. Let’s use the dog walker app as an example to explore how this works in action.
+
+### Determine a value proposition
+
+Have you ever encountered a product or app and thought, “I have to have this!”? That’s not a coincidence! This is the dream for UX designers because we want to create products that provide a clear value for users. 
+So, how can you use everything you’ve built so far — empathy maps, personas, user stories, problem statements, and hypothesis statements — to make users think, “I have to have this!”? 
+Start by defining your product’s value propositions. Value propositions summarize why a consumer should use a product or service. 
+
+#### Value proposition example
+
+Check out a product you might recognize - Gmail – and ask yourself if you can identify a few of its value propositions. When Google debuted Gmail in 2004, they were entering an already crowded market of free email services. Gmail offered: 
+
+  - The ability to send and receive emails for free
+  - Email sorting, archiving, and starring functions
+  - Spam filtering for inboxes
+  - Email conversation views
+  - 1 gigabyte of cloud storage
+
+Two of the items on that list were unique offerings that no other email services provided at the time: email conversation views, which put individual emails in the context of a larger thread, and an entire gigabyte of storage, which was 1,000 times the amount of storage that competitors offered. Those were Gmail’s unique value propositions. 
+- [Value proposition example](https://www.coursera.org/learn/start-ux-design-process/supplement/FNFGw/determine-a-value-proposition")
+![image](https://user-images.githubusercontent.com/11480617/202549414-648bd1ee-5d84-4fcc-91e3-78e22304f80b.png)
+
+#### Explore the influence of psychology in UX design
+
+The human factor: Describes the range of vairables humans bring to their product interactions. 
+![image](https://user-images.githubusercontent.com/11480617/202552246-9135d5f9-6460-4fc1-b22d-382bf6e85dbc.png)
+
+#### Wrap up
+ Discussed the empathize phase in detail and have now entered the define phase. Along the way, we learned how to empathize with users, build an empathy map, understand user pain points, explore personas, write user stories, identify happy paths and edge cases, discover the benefits of user journey maps, incorporate accessibility and inclusion into UX design and write problem statements, and hypothesis statements. Next, we'll move into the ideation phase. See you there.
