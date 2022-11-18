@@ -517,3 +517,41 @@ The human factor: Describes the range of vairables humans bring to their product
 
 #### Wrap up
  Discussed the empathize phase in detail and have now entered the define phase. Along the way, we learned how to empathize with users, build an empathy map, understand user pain points, explore personas, write user stories, identify happy paths and edge cases, discover the benefits of user journey maps, incorporate accessibility and inclusion into UX design and write problem statements, and hypothesis statements. Next, we'll move into the ideation phase. See you there.
+
+
+### Week 4 Understand Design Ideation 
+
+***Ideation***: The process of generating a broad set of ideas on a given topic with no attempt to judge or evaluate them. The broad set of ideas part is really important. Ideation is all about coming up with lots and lots of ideas. The no judgment part is important too. We need to be able to explore all ideas without judging them and throwing them out. Some of the most crazy ideas can actually prove to be really valuable.
+![image](https://user-images.githubusercontent.com/11480617/202777468-7eed1caf-c3e1-4c8b-bcfb-be8860d1c3b5.png)
+
+***Ideation***: The process of generating a broad set of ideas on a given topic with no attempt to judge or evaluate them. The broad set of ideas part is really important. Ideation is all about coming up with lots and lots of ideas. The no judgment part is important too. We need to be able to explore all ideas without judging them and throwing them out. Some of the most crazy ideas can actually prove to be really valuable.
+
+***Learn more about design ideation***: You’ve empathized with your users and determined their pain points. Now you’re ready to start thinking of ways to solve your user’s problems. Ideating is an exciting step in your journey as a UX designer! As a reminder, design ideation is the process of generating a broad set of ideas on a given topic without judging or evaluating them. When you start thinking of ideas, you want to come up with as many as possible. The aim is to generate lots of ideas, even ones that may seem ridiculous at first. Sometimes your most outrageous idea will turn into a great and unique solution!
+![image](https://user-images.githubusercontent.com/11480617/202781315-84f5085f-6fbf-4d06-88f8-5df922cbfbab.png)
+![image](https://user-images.githubusercontent.com/11480617/202781587-f7afc9d0-09c4-4e3e-8e0f-b195996f9b0a.png)
+
+- [Learn more about design ideation](https://www.coursera.org/learn/start-ux-design-process/supplement/NEUOp/learn-more-about-design-ideation")
+- [Best Article to read Ideation](https://careerfoundry.com/en/blog/ux-design/what-is-ideation-in-design-thinking/")
+- [More Reading](https://designthinking.ideo.com/")
+- ***Recognize business uneeds during design ideation:*** Small changes in language communicate a brand's voice and tone and help improve the user experience. As we continue through this program, you will see how design can help facilitate a conversation between a business and its users. For example, Apple and Google might each have a product that focuses on similar user needs, but the approach, tone, and branding for that product can be really different.
+![image](https://user-images.githubusercontent.com/11480617/202782387-4cc57193-76dd-4234-bc1d-d98653d8a674.png)
+![image](https://user-images.githubusercontent.com/11480617/202783298-265a9620-9aa6-41af-a705-49a92ceeaf1f.png)
+![image](https://user-images.githubusercontent.com/11480617/202784154-0102bb41-13ae-4477-939b-a2591306731f.png)
+
+#### Conduct Competitive Audits
+A competitive audit is an overview of your competitors' strengths and weaknesses.
+![image](https://user-images.githubusercontent.com/11480617/202783974-e5df4c3a-b71d-4f45-9581-b13ac9ababfd.png)
+![image](https://user-images.githubusercontent.com/11480617/202784540-490dda46-3b4b-499f-a98f-8b2de81b4356.png)
+
+![image](https://user-images.githubusercontent.com/11480617/202784078-5eb13b54-4fe6-4e70-9f7f-246b145b950c.png)
+
+
+- ***Recognize business uneeds during design ideation:*** Small changes in language communicate a brand's voice and tone and help improve the user experience. As we continue through this program, you will see how design can help facilitate a conversation between a business and its users. For example, Apple and Google might each have a product that focuses on similar user needs, but the approach, tone, and branding for that product can be really different.
+
+***Learn more about competitive audits***: Competitive audits are one of the many valuable steps you can take during the ideation process. A competitive audit is an overview of your competitors’ strengths and weaknesses. Analyzing the brands and products of competitors, or the companies who offer similar products as you do, can give you a well-rounded foundation of knowledge about the market your product will enter. That knowledge will carry into your designs and help you create a product that’s helpful and unique for users. As a UX designer, you’ll likely partner with folks from other teams, like marketing or product management, to run a competitive audit. 
+![image](https://user-images.githubusercontent.com/11480617/202786317-8fce8481-b50f-4a2b-bb87-963fd3791511.png)
+
+- [Learn more about competitive audits](https://www.coursera.org/learn/start-ux-design-process/supplement/sFvs0/learn-more-about-competitive-audits")
+- [A Product Designer’s Guide to Competitive Analysis](https://www.toptal.com/product-managers/freelance/product-designer-guide-to-competitive-analysis")
+
+![image](https://user-images.githubusercontent.com/11480617/202789461-1c41b145-3f1f-40f5-8d90-35e1a8f57e05.png)
