@@ -555,3 +555,6 @@ A competitive audit is an overview of your competitors' strengths and weaknesses
 - [A Product Designer’s Guide to Competitive Analysis](https://www.toptal.com/product-managers/freelance/product-designer-guide-to-competitive-analysis")
 
 ![image](https://user-images.githubusercontent.com/11480617/202789461-1c41b145-3f1f-40f5-8d90-35e1a8f57e05.png)
+![image](https://user-images.githubusercontent.com/11480617/202869001-97ba9b23-a5b0-47da-91ba-29d32529100e.png)
+
+- Similar to UX designers, there are also graphic designers who create visuals that tell a story or message. Graphic designers usually work on the appearance of a physical product, like an invitation or a poster, while UX designers focus on how users interact with the product. Outside of design, there are many other roles in the field of UX. Collaboration is an important part of a UX designer's job. So let's talk about a few of the most common colleagues a designer might work with.
