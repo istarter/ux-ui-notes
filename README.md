@@ -558,3 +558,14 @@ A competitive audit is an overview of your competitors' strengths and weaknesses
 ![image](https://user-images.githubusercontent.com/11480617/202869001-97ba9b23-a5b0-47da-91ba-29d32529100e.png)
 
 - Similar to UX designers, there are also graphic designers who create visuals that tell a story or message. Graphic designers usually work on the appearance of a physical product, like an invitation or a poster, while UX designers focus on how users interact with the product. Outside of design, there are many other roles in the field of UX. Collaboration is an important part of a UX designer's job. So let's talk about a few of the most common colleagues a designer might work with.
+
+***Step 3:*** Determine the specific competitor aspects you want to compare
+Defining a list of aspects you want to compare makes it easier to compile your results for analysis later on in the process. For this example, imagine that you check out each of the competitors’ websites and rate them based on the following categories:  
+
+- First impressions: Check out the website on both desktop and mobile devices, and make note of your first impressions. Is the website responsive, meaning that it resizes across devices? Does the design complement the product? How do you feel about the website?
+
+- Interaction: Explore the user flow and navigation of the website. What features are available for users? Is the website accessible to all users, including those using screen readers? How inclusive is their website to non-English speakers? Will the user get confused as they click through the website pages, or is the navigation clear? 
+
+- Visual design: Review competitor branding and their overall consistency. Does the website appear and feel the same throughout all sections and pages? Does the branding match the intended audience? Is the imagery and color palette memorable? 
+- [Steps to conduct a competitive audit](https://www.coursera.org/learn/start-ux-design-process/supplement/WUoyC/steps-to-conduct-a-competitive-audit")
+Content: Examine the written content included on the website. Does the tone of the content match the company’s branding? Will users be able to find the details they’re interested in? 
