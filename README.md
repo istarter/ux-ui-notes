@@ -569,3 +569,28 @@ Defining a list of aspects you want to compare makes it easier to compile your r
 - Visual design: Review competitor branding and their overall consistency. Does the website appear and feel the same throughout all sections and pages? Does the branding match the intended audience? Is the imagery and color palette memorable? 
 - [Steps to conduct a competitive audit](https://www.coursera.org/learn/start-ux-design-process/supplement/WUoyC/steps-to-conduct-a-competitive-audit")
 Content: Examine the written content included on the website. Does the tone of the content match the company’s branding? Will users be able to find the details they’re interested in? 
+
+![image](https://user-images.githubusercontent.com/11480617/203386714-88953bee-c0a6-4c04-9439-8f0aa8d5773d.png)
+
+- [Actvity of competivtive aduit](https://www.coursera.org/learn/start-ux-design-process/quiz/FHm7k/practice-activity-create-a-competitive-audit-for-the-coffeehouse-project/attempt?redirectToCover=true")
+
+#### How to present a competitive audit
+
+Presenting data effectively
+The way you present your data can influence how your audience interprets it. Keep in mind that different types of data lend themselves to different formats. For example, if your presentation has a lot of numbers or quantitative data, a chart or graph can help your audience grasp how the numbers compare to one another. To demonstrate a specific function or issue with a competitor’s product, consider including a screen recording in your presentation. Finally, it can be helpful to include a rubric that explains the grading system you used in your audit. For example, the rubric system used in the example audit graded the burger restaurants from “needs work” to “outstanding.” Using that rubric, each restaurant was rated on a scale of one to four in each category to create a final rating.
+
+***Delivering a strong presentation*** 
+
+Knowing what  to include in your presentation is only part of the process. As you prepare to present your findings, keep these tips for effective presentations in mind:
+
+- Get feedback from your team. Share your report or slides with a trusted teammate ahead of time to get their take on how the information flows. 
+- Limit the amount of text on your slides. Your slides should include just enough information to draw attention to important points. Save the details for your speech. 
+- Stick to the highlights. A presentation to your team or client should only focus on the highlights of your audit. If you want to get into more detail, add them to the appendix of your presentation or create a written report. 
+- Use notes. An outline or note cards can help you stay focused, on topic, and on time. 
+- Practice ahead of time. Do a few trial runs before the big day to get comfortable with the content and pace of your presentation.
+- Use relevant graphics. Make sure any images and graphics relate directly to the topic of your presentation. Choose images and graphics carefully to ensure they enhance clarity.
+- Keep your biases in check. Be aware of your own design biases and try to prevent them from clouding your judgment during the presentation.
+- Be able to defend your conclusions. Make sure you have evidence to back up your conclusions. Use actual data and specific examples whenever possible. 
+
+Presenting your research can seem intimidating, but remember that you are representing your users! Competitive audits give you, your team, and your clients knowledge that will help create well-rounded product designs that work. To ease your presentation jitters, check out  this article from Forbes for expert tips on connecting with your audience:  20 World-Class Presentation Experts Share Their Top Tips.
+- [20 World-Class Presentation Experts Share Their Top Tips](https://www.forbes.com/sites/markfidelman/2014/08/15/20-world-class-presentation-experts-share-their-top-tips/?sh=10d904875c40")
