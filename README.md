@@ -594,3 +594,9 @@ Knowing what  to include in your presentation is only part of the process. As yo
 
 Presenting your research can seem intimidating, but remember that you are representing your users! Competitive audits give you, your team, and your clients knowledge that will help create well-rounded product designs that work. To ease your presentation jitters, check out  this article from Forbes for expert tips on connecting with your audience:  20 World-Class Presentation Experts Share Their Top Tips.
 - [20 World-Class Presentation Experts Share Their Top Tips](https://www.forbes.com/sites/markfidelman/2014/08/15/20-world-class-presentation-experts-share-their-top-tips/?sh=10d904875c40")
+
+#### Brainstorm design ideas by sketching 
+
+![image](https://user-images.githubusercontent.com/11480617/204587593-14df7a52-9aa8-48e4-ac89-77fe74fe0343.png)
+![image](https://user-images.githubusercontent.com/11480617/204587965-4215d5f3-60ef-480b-92fa-bb06f9a7de34.png)
+
