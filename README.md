@@ -598,5 +598,6 @@ Presenting your research can seem intimidating, but remember that you are repres
 #### Brainstorm design ideas by sketching 
 
 ![image](https://user-images.githubusercontent.com/11480617/204587593-14df7a52-9aa8-48e4-ac89-77fe74fe0343.png)
+
 ![image](https://user-images.githubusercontent.com/11480617/204587965-4215d5f3-60ef-480b-92fa-bb06f9a7de34.png)
 
