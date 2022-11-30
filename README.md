@@ -601,3 +601,16 @@ Presenting your research can seem intimidating, but remember that you are repres
 
 ![image](https://user-images.githubusercontent.com/11480617/204587965-4215d5f3-60ef-480b-92fa-bb06f9a7de34.png)
 
+![image](https://user-images.githubusercontent.com/11480617/204838534-26341ec4-3398-4f30-b587-89da548eed6d.png)
+
+![image](https://user-images.githubusercontent.com/11480617/204838730-54b3f93f-d6b9-4922-b038-2e885b8dcb00.png)
+
+#### Best practices for Crazy Eights
+
+![image](https://user-images.githubusercontent.com/11480617/204841950-2562e29d-925e-4ef6-a8f5-2d7e23d79875.png)
+
+![image](https://user-images.githubusercontent.com/11480617/204842362-b5344c93-6181-4c8c-a2a2-9c3ee0a91884.png)
+
+![image](https://user-images.githubusercontent.com/11480617/204844129-8a1a2cd5-d7ff-4f14-b73d-2be3c474b177.png)
+![image](https://user-images.githubusercontent.com/11480617/204844972-f95a8087-a9e4-47a6-b910-8b4a9fbae94a.png)
+
