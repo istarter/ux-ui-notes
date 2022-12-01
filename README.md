@@ -614,3 +614,9 @@ Presenting your research can seem intimidating, but remember that you are repres
 ![image](https://user-images.githubusercontent.com/11480617/204844129-8a1a2cd5-d7ff-4f14-b73d-2be3c474b177.png)
 ![image](https://user-images.githubusercontent.com/11480617/204844972-f95a8087-a9e4-47a6-b910-8b4a9fbae94a.png)
 
+[Crazy 8 detail notes](https://docs.google.com/document/d/1cmmkciJTHm5vCnjLvT5u5gj9KkhtGwbxqfjV16Cykbc/edit#")
+
+
+# Build Wireframes and Low-Fidelity Prototypes Course 3
+
+### Week One
