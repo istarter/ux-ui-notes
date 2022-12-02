@@ -620,3 +620,25 @@ Presenting your research can seem intimidating, but remember that you are repres
 # Build Wireframes and Low-Fidelity Prototypes Course 3
 
 ### Week One
+
+***User Research***: User journeys build off the personas and user stories you've already created. User journeys help you come up with ideas for designs that truly support the user's needs and reduce their problems, or what we also like to call "pain points." Together, empathy maps, personas, user stories, and user journey maps help us create a problem statement, or a clear description of a user's needs that our design should address.
+
+#### Revise Four Tools, Emapth maps, Personas, User Stories, Journey Mpas
+
+Earlier in the course, you used four tools - empathy maps, personas, user stories, and user journey maps - to help gain a deeper understanding of users’ needs. All of these tools informed the creation of a problem statement and will guide your ideation process moving forward. As a quick refresher: 
+- Empathy maps explore users’ four main motivations: what the user says, thinks, does, and feels. The insights gathered from empathy maps help you come up with ideas for solutions that address the user’s real problems. 
+- Personas place the users who you’re designing for front-and-center. By creating detailed user profiles, you can clearly envision potential users that you’d design for.
+- User stories determine which user needs are the most critical to address with your designs. This direction will help focus your ideation.
+- User journeys help you come up with ideas for designs that truly support the users’ needs and solve their problems. 
+- A problem statement is a clear description of the user’s need that should be addressed. The problem statement you created in the last course will guide the focus of your ideation. 
+
+![image](https://user-images.githubusercontent.com/11480617/205358975-bf75f15c-feb8-4bbe-8834-eaf4c59f7d12.png)
+![image](https://user-images.githubusercontent.com/11480617/205359727-aff47f0e-419f-4cf7-9596-faad3fb384b6.png)
+
+- ***Creating goal statements:*** For example, who can come from the persona. What could come from the user story. Why can come from the empathy map and user journey maps, and how can come from the brainstorming. The how is important because it helps make sure the goal is measurable and realistic. Spend some time considering concrete ways you can evaluate how well the product is doing.
+- A goal statement is one or two sentences that describe a product and its benefits for the user. In other words, the goal statement provides the ideal solution for your design challenge. Goal statements cover who the product will serve, what the product will do, and why the product solves the user’s need. 
+
+![image](https://user-images.githubusercontent.com/11480617/205362618-f6b9d981-cd5f-476b-8c2d-f856188114b7.png)
+![image](https://user-images.githubusercontent.com/11480617/205362683-e568d6e6-c636-4a9f-8953-2d2d6bf2c514.png)
+![image](https://user-images.githubusercontent.com/11480617/205363022-337074a7-64eb-4b72-9403-a3ddc03cdd42.png)
+
