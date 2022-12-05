@@ -642,3 +642,17 @@ Earlier in the course, you used four tools - empathy maps, personas, user storie
 ![image](https://user-images.githubusercontent.com/11480617/205362683-e568d6e6-c636-4a9f-8953-2d2d6bf2c514.png)
 ![image](https://user-images.githubusercontent.com/11480617/205363022-337074a7-64eb-4b72-9403-a3ddc03cdd42.png)
 
+#### User Flow
+A user flow is the path taken by a typical user on an app or website so they can complete a task from start to finish.
+
+![image](https://user-images.githubusercontent.com/11480617/205690123-191b254c-3905-4a89-9100-060a81be82fb.png)
+
+As a UX designer, you can anticipate user needs when interacting with your product. A clear and simple way to outline this process is by creating a user flow. A user flow is the path taken by a typical user on an app or a website, so they can complete a task from start to finish.
+
+UX designers often outline the user flow before they start to design because it can help to picture how users will move through the app or website. In other words, before you design screens of an app, you need to understand how users can effectively move through the app overall. You need to determine:
+  - What actions will users take in the app?
+  - What decisions will users make?
+  - What screens will users experience after taking action or making a decision?
+
+![image](https://user-images.githubusercontent.com/11480617/205691226-26dd8a5e-9f98-40ac-8bc0-b3a65c2ce027.png)
+![image](https://user-images.githubusercontent.com/11480617/205699269-c641d896-c8a1-484b-90dc-2b336d01955a.png)
