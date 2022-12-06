@@ -658,3 +658,12 @@ UX designers often outline the user flow before they start to design because it 
 ![image](https://user-images.githubusercontent.com/11480617/205699269-c641d896-c8a1-484b-90dc-2b336d01955a.png)
 
 ![image](https://user-images.githubusercontent.com/11480617/205720353-ef90682a-5a0d-4c62-b66d-f5a11e2d8ce4.png)
+
+#### Introduction to storyboarding user flows
+A storyboard is a series of panels or frames that visually describe and explore a user's experience with a product. Keep in mind, we've made the transition from the problem the user is facing to coming up with ideas for solutions we can provide as UX designers. Think about storyboarding as a tool to visualize potential solutions to problems the user is facing. You might have heard the term storyboarding used in reference to movies or commercials
+
+![image](https://user-images.githubusercontent.com/11480617/205861707-e4dcb1bf-b675-4144-bc64-b008005c89e0.png)
+
+***There are actually two types of storyboards***
+![image](https://user-images.githubusercontent.com/11480617/205865502-001278ad-8501-4d2e-b5bb-2db16dd10f5f.png)
+![image](https://user-images.githubusercontent.com/11480617/205867207-9588e1fe-7547-40eb-ac7c-cc2e8bebee40.png)
