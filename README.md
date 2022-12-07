@@ -667,3 +667,48 @@ A storyboard is a series of panels or frames that visually describe and explore 
 ***There are actually two types of storyboards***
 ![image](https://user-images.githubusercontent.com/11480617/205865502-001278ad-8501-4d2e-b5bb-2db16dd10f5f.png)
 ![image](https://user-images.githubusercontent.com/11480617/205867207-9588e1fe-7547-40eb-ac7c-cc2e8bebee40.png)
+![image](https://user-images.githubusercontent.com/11480617/206120201-70c5c801-b429-47e4-94a1-0573f0ad6282.png)
+![image](https://user-images.githubusercontent.com/11480617/206120371-6ffeb289-6121-4b04-8ebb-6bde40ea81ee.png)
+
+For both the big picture storyboard and close-up storyboard, the activity begins with a problem statement:
+- Anika is a busy marketing intern
+- who needs a faster, more collaborative way to take many coffee orders at once
+- because taking individual orders takes too long.
+- This problem statement gives you a good idea of a character for the story. It is Anika, a busy marketing intern! This problem statement also sets a scene for the storyboards: Anika is entering a large coffee order and picking it up for her office. Next, let’s consider a goal statement based on this problem statement: 
+
+***Big picture storyboard:***
+Notice that this big picture storyboard is focused on the how and the why behind the user’s engagement with your design. When creating a big picture storyboard, think about questions like:
+
+- Why does the user need our app?
+- How will the user use our CoffeeHouse app?
+- Why will the user be delighted by the app?
+
+Like a good movie, a big picture storyboard can show the emotional engagement that a user will have with this app or with any product. Understanding how a user feels while experiencing your product is an essential part of the design process.
+
+A big picture storyboard should meet the following guidelines:
+
+- Sketches should focus on the user.
+- Sketches should indicate the environment or context where the user is located.
+- Sketches should focus on the specific need or pain point experienced by the user.
+
+***Close-up storyboard:***
+While big picture storyboards focus on the how and the why, close-up storyboards focus on the what. Think about questions like:
+- What happens on each screen of the product?
+- What does the user do to transition from one screen to another?
+- What are some assumptions we are making about this experience? 
+- What are some potentially complicated interactions or pain points that will need to be addressed?
+- The close-up storyboard is less about emotion since we’re not focused on the user. Instead, the close-up storyboard is focused on the practical aspects of the design itself.
+
+A close-up storyboard should meet the following guidelines:
+- Sketches should focus on the product instead of on the user experiencing that product.
+- Sketches should indicate the interaction that a user may have with the product by depicting sample screens.
+- Sketches should indicate any transitions between screens or states that the user may need to perform.
+
+#### Introduction to Wireframes 
+***Fidelity***: How closely a design matches the look-and-feel of the final product. 
+![image](https://user-images.githubusercontent.com/11480617/206265466-d752d785-8a26-4c63-a481-c4a77d453467.png)
+![image](https://user-images.githubusercontent.com/11480617/206265973-c6832cc9-117e-4cae-8afa-fb0afc61a11d.png)
+![image](https://user-images.githubusercontent.com/11480617/206281134-02705ad1-033e-43f5-a6b9-6ddece642bfd.png)
+![image](https://user-images.githubusercontent.com/11480617/206282354-0adf95b8-b546-41be-a07d-c55c7541ccaf.png)
+
+
