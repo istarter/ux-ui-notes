@@ -711,4 +711,21 @@ A close-up storyboard should meet the following guidelines:
 ![image](https://user-images.githubusercontent.com/11480617/206281134-02705ad1-033e-43f5-a6b9-6ddece642bfd.png)
 ![image](https://user-images.githubusercontent.com/11480617/206282354-0adf95b8-b546-41be-a07d-c55c7541ccaf.png)
 
+### Understand Information Architecture | Week 2
 
+Information architecture, or IA, organizes content to help users understand where they are in a product and where the information they want is. When users find a product easy to use, it means they can find what they're looking for, quickly and intuitively
+![image](https://user-images.githubusercontent.com/11480617/206434804-91f2fbde-9409-4fbf-a4e0-053f49181221.png)
+
+***Eight basic principles***
+In your role as a UX designer, you should be familiar with the eight basic principles of information architecture. These are principles created by the founder of EightShapes, Dan Brown. They were created to help UX designers understand and make decisions about their products. Here’s a list of the eight principles:
+
+- Object principle: You should view your content as “living” and as something that changes and grows over time.
+- Choice principle: People think they want to have many choices, but they actually need fewer choices that are well-organized.
+- Disclosure principle: Information should not be unexpected or unnecessary.
+- Exemplar principle: Humans put things into categories and group different concepts together.
+- Front door principle: People will usually arrive at a homepage from another website.
+- Multiple classification principle: People have different ways of searching for information.
+- Focused navigation principle: There must be a strategy and logic behind the way navigation menus are designed.
+- Growth principle: The amount of content in a design will grow over time.
+
+![image](https://user-images.githubusercontent.com/11480617/206525873-701571d3-a49f-43b9-8ccb-3d276f81413a.png)
