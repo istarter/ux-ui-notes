@@ -729,3 +729,7 @@ In your role as a UX designer, you should be familiar with the eight basic princ
 - Growth principle: The amount of content in a design will grow over time.
 
 ![image](https://user-images.githubusercontent.com/11480617/206525873-701571d3-a49f-43b9-8ccb-3d276f81413a.png)
+
+![image](https://user-images.githubusercontent.com/11480617/210418232-ca5bc736-1e19-47e7-9775-8c8cb19e9067.png)
+![image](https://user-images.githubusercontent.com/11480617/210418292-dfcfaf34-24e5-49d3-864d-bfb9c21d8ea9.png)
+![image](https://user-images.githubusercontent.com/11480617/210421579-b0f0e213-1c51-49f2-83db-42a8ccd8c043.png)
