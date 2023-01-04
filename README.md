@@ -739,3 +739,7 @@ In your role as a UX designer, you should be familiar with the eight basic princ
 ![image](https://user-images.githubusercontent.com/11480617/210627429-2277f0eb-193a-4234-83ac-c37be1243545.png)
 ![image](https://user-images.githubusercontent.com/11480617/210627714-f7876997-26e3-4ee5-89ed-ff1a7bad3aaa.png)
 ![image](https://user-images.githubusercontent.com/11480617/210627921-e758cff3-ecb6-4218-a40a-853bd25914f2.png)
+
+- Similarity means that elements that look alike (in shape, size, or color, for instance) are perceived to have the same function. 
+- Proximity means that elements that are close together appear to be more related than things that are spaced farther apart.  
+- Common region means that elements located within the same closed area are perceived to be grouped together.
