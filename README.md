@@ -743,3 +743,16 @@ In your role as a UX designer, you should be familiar with the eight basic princ
 - Similarity means that elements that look alike (in shape, size, or color, for instance) are perceived to have the same function. 
 - Proximity means that elements that are close together appear to be more related than things that are spaced farther apart.  
 - Common region means that elements located within the same closed area are perceived to be grouped together.
+![image](https://user-images.githubusercontent.com/11480617/210849218-54ca6a06-d39e-4051-8b93-41393674a8d7.png)
+
+# Week 3
+
+### Prototype
+A prototype is an early model of a product that demonstrates its functionality, without actually building the entire product. A prototype shows stakeholders and your potential users what your design idea can do.
+
+### Fidelity
+How closely a design matches the look-and-feel of the final product. 
+
+### Low-fidelity protofype
+A simple, interactive model that provides a basic idea of what the product would like. 
+![image](https://user-images.githubusercontent.com/11480617/210855605-072d6805-ad4d-4ab3-81b5-d1093d7bd14a.png)
