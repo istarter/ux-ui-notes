@@ -756,3 +756,16 @@ How closely a design matches the look-and-feel of the final product.
 ### Low-fidelity protofype
 A simple, interactive model that provides a basic idea of what the product would like. 
 ![image](https://user-images.githubusercontent.com/11480617/210855605-072d6805-ad4d-4ab3-81b5-d1093d7bd14a.png)
+
+### Prepare to create your prototype
+Before you start building a prototype in Figma, you should ask yourself how users might interact with your product. Some questions to consider are:
+- What are common user flows through your product? 
+- What buttons will users interact with? What order will they perform these actions in? 
+- What will users expect to happen after they click a button or submit a form?
+Thinking about these questions before you start prototyping will help you design for different and diverse types of user interactions. You’ll be using these questions, along with your wireframes and paper prototype, to build a digital prototype in Figma. 
+
+## Understand ethical and inclusive design
+![image](https://user-images.githubusercontent.com/11480617/211373806-f2c15625-de61-40fd-bcc7-58b331dd00a2.png)
+
+Thinking about these questions before you start prototyping will help you design for different and diverse types of user interactions. You’ll be using these questions, along with your wireframes and paper prototype, to build a digital prototype in Figma. 
+![image](https://user-images.githubusercontent.com/11480617/211375425-9eafe8cd-b9fd-469a-a10d-2e53ad3dabd7.png)
