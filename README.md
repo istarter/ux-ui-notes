@@ -769,3 +769,38 @@ Thinking about these questions before you start prototyping will help you design
 
 Thinking about these questions before you start prototyping will help you design for different and diverse types of user interactions. You’ll be using these questions, along with your wireframes and paper prototype, to build a digital prototype in Figma. 
 ![image](https://user-images.githubusercontent.com/11480617/211375425-9eafe8cd-b9fd-469a-a10d-2e53ad3dabd7.png)
+![image](https://user-images.githubusercontent.com/11480617/211519607-3b61c2c0-bb20-4f2b-bd53-378334e43410.png)
+
+# Course 4 | Conduct UX Research and Test Early Concepts
+
+![image](https://user-images.githubusercontent.com/11480617/211564899-e9814e83-4d6d-4259-b2fb-6f3660a69bbf.png)
+![image](https://user-images.githubusercontent.com/11480617/211623377-c97bce74-718c-42bf-bfb3-5e2b75a8d402.png)
+![image](https://user-images.githubusercontent.com/11480617/211626582-ca2d964f-4f05-4306-adca-d261bfe575cd.png)
+![image](https://user-images.githubusercontent.com/11480617/211626767-9c76a489-c87c-45e7-8216-1c3058c473e1.png)
+![image](https://user-images.githubusercontent.com/11480617/211626912-2512bce3-b2e4-4964-9d29-8dbe70831648.png)
+![image](https://user-images.githubusercontent.com/11480617/211628494-214d18a2-cc5e-4cd3-8f2a-fff7cc2907e5.png)
+
+### Build a UX research plan (part 1)
+
+![image](https://user-images.githubusercontent.com/11480617/211629780-ade2f797-d898-4256-88c4-2129e2585cce.png)
+![image](https://user-images.githubusercontent.com/11480617/211629843-de1c496a-b0cc-45a9-abe1-0092f01d5eb3.png)
+![image](https://user-images.githubusercontent.com/11480617/211630026-a158e139-36c0-424c-a3f3-fd05145ac143.png)
+![image](https://user-images.githubusercontent.com/11480617/211630143-63a935e7-11b7-4460-b653-a69591958e7b.png)
+![image](https://user-images.githubusercontent.com/11480617/211630278-16a553c9-ee56-4e21-8cf6-e62806045b9d.png)
+![image](https://user-images.githubusercontent.com/11480617/211630406-1d971cb1-0c4d-4c87-8012-8e8e74811b95.png)
+![image](https://user-images.githubusercontent.com/11480617/211630488-1986dc00-faa9-47ca-9eed-8e1078b90b2f.png)
+![image](https://user-images.githubusercontent.com/11480617/211631245-22676384-8dba-4664-ab50-240c06d31cb8.png)
+![image](https://user-images.githubusercontent.com/11480617/211632452-38b91974-47d5-4311-a4e5-ceb7c90cf317.png)
+![image](https://user-images.githubusercontent.com/11480617/211632606-171d5cf8-5f2e-4b57-a9a7-613b29802e5a.png)
+![image](https://user-images.githubusercontent.com/11480617/211632646-18ad0bff-9e14-4c46-b0ba-0df1dacca49b.png)
+![image](https://user-images.githubusercontent.com/11480617/211633068-6789254a-927d-421d-a3b7-05d9602dce02.png)
+![image](https://user-images.githubusercontent.com/11480617/211633155-658e19ea-183e-4233-bde2-e63d2dd7405f.png)
+![image](https://user-images.githubusercontent.com/11480617/211633255-9ca2af1e-23c4-4e5c-b573-cdcb1894a2ab.png)
+![image](https://user-images.githubusercontent.com/11480617/211633640-39bc07f6-ed51-40df-95b5-b729365393b2.png)
+![image](https://user-images.githubusercontent.com/11480617/211633681-612564c7-a0bb-4e17-8716-9f987a757a5e.png)
+![image](https://user-images.githubusercontent.com/11480617/211633851-00d1ee91-9604-4e8a-a671-80d10357b96b.png)
+![image](https://user-images.githubusercontent.com/11480617/211633930-d126113a-ee14-45a0-b89c-eab26111122f.png)
+![image](https://user-images.githubusercontent.com/11480617/211634787-def1f40e-f0f5-4ee3-891b-287e4e7bb944.png)
+
+
+
