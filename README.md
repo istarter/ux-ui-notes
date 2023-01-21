@@ -823,3 +823,14 @@ https://www.awesomescreenshot.com/image/36089111?key=206254f7b8fea96195fbeb76eb6
 ![image](https://user-images.githubusercontent.com/11480617/212732940-e6eaa3ec-be09-4ea3-a03c-12063773af5b.png)
 ![image](https://user-images.githubusercontent.com/11480617/212733484-a4b134f6-ed1d-4ec2-9d50-4caea14430dc.png)
 ![image](https://user-images.githubusercontent.com/11480617/212733643-c217da1a-17e2-4e61-afef-7efc0b281d90.png)
+
+### Week 2 Usability Study 
+Usability studies are a research method that assesses how easy it is for participants to complete core tasks in a design. We will also explore how to reduce bias and be inclusive when conducting usability studies.
+![image](https://user-images.githubusercontent.com/11480617/213876227-98918918-1484-46a4-a52c-857cb9247704.png)
+![image](https://user-images.githubusercontent.com/11480617/213876254-61bcc6ea-e6bc-4b9f-b428-db88998288d6.png)
+![image](https://user-images.githubusercontent.com/11480617/213876542-63fe48a4-1380-441c-a875-14f749abb21a.png)
+![image](https://user-images.githubusercontent.com/11480617/213879513-10faf42c-de74-4b8c-bdc2-782c72bd81a4.png)
+![image](https://user-images.githubusercontent.com/11480617/213879624-affcaf3b-9531-463a-ba3f-a0391864a38b.png)
+![image](https://user-images.githubusercontent.com/11480617/213880823-38289de3-2705-4ef7-86f6-ca72d423d65b.png)
+![image](https://user-images.githubusercontent.com/11480617/213881897-f5db8cbf-a442-4649-83e7-846a8f0b3fae.png)
+![image](https://user-images.githubusercontent.com/11480617/213881938-0e7a9876-dbe8-48ca-9e74-759896ed26e4.png)
