@@ -834,3 +834,8 @@ Usability studies are a research method that assesses how easy it is for partici
 ![image](https://user-images.githubusercontent.com/11480617/213880823-38289de3-2705-4ef7-86f6-ca72d423d65b.png)
 ![image](https://user-images.githubusercontent.com/11480617/213881897-f5db8cbf-a442-4649-83e7-846a8f0b3fae.png)
 ![image](https://user-images.githubusercontent.com/11480617/213881938-0e7a9876-dbe8-48ca-9e74-759896ed26e4.png)
+
+### Week 3 Analyzing and synthesizing research results
+
+![image](https://user-images.githubusercontent.com/11480617/214381742-38938108-c8c6-4b73-8683-c9798d104b1a.png)
+![image](https://user-images.githubusercontent.com/11480617/214382496-45794eaf-27e7-4887-bd97-9ee4cfa062bd.png)
