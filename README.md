@@ -839,3 +839,18 @@ Usability studies are a research method that assesses how easy it is for partici
 
 ![image](https://user-images.githubusercontent.com/11480617/214381742-38938108-c8c6-4b73-8683-c9798d104b1a.png)
 ![image](https://user-images.githubusercontent.com/11480617/214382496-45794eaf-27e7-4887-bd97-9ee4cfa062bd.png)
+![image](https://user-images.githubusercontent.com/11480617/214635409-807f22d7-c14b-436d-8aa9-93dfd53bee06.png)
+![image](https://user-images.githubusercontent.com/11480617/214635527-f2f8202f-b693-4f88-a814-a734654cd4f6.png)
+![image](https://user-images.githubusercontent.com/11480617/214642928-6b83da5a-7e33-4de8-93b7-b5daec48bf6f.png)
+![image](https://user-images.githubusercontent.com/11480617/214643761-00adec74-cd75-45ed-bc60-80952a52174b.png)
+
+#### Create your own affinity diagram
+When you have a lot of research data to sort through, it can be overwhelming to hunt for patterns and make a plan for iterating on your product. Creating an affinity diagram helps you group together research insights so that you can further understand and define the problems in your product and design. 
+In addition, affinity diagramming helps you think outside of the box. The interactive and visual format of affinity mapping allows you to make connections within your data that you may not have noticed by simply reading through your notes. This helps you think of new, creative ways to solve user problems. 
+Now it's your turn to sort through research data, and have some fun while you’re at it. Remember, there’s no right or wrong way to group data in your affinity diagram. Play with your sticky notes and come up with unique groupings. It’ll be worth the effort!
+If you want to learn even more about affinity diagramming, check out this article from Nielsen Norman Group that highlights some best practices for affinity diagramming.
+![image](https://user-images.githubusercontent.com/11480617/214645683-49a29e00-fb52-4554-81fa-5e1366ee9efb.png)
+![image](https://user-images.githubusercontent.com/11480617/214647013-514d0f26-8d63-4b83-93c3-463f1cfc8356.png)
+![image](https://user-images.githubusercontent.com/11480617/214647068-ba6676ff-4b7d-45fc-aa51-2af6f52e9988.png)
+![image](https://user-images.githubusercontent.com/11480617/214648207-b6111d76-ef22-4449-8d8d-125bbfa92f4c.png)
+![image](https://user-images.githubusercontent.com/11480617/214649014-6b201055-6035-4c0d-b4d0-ef41ae4f40ba.png)
