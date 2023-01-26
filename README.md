@@ -854,3 +854,14 @@ If you want to learn even more about affinity diagramming, check out this articl
 ![image](https://user-images.githubusercontent.com/11480617/214647068-ba6676ff-4b7d-45fc-aa51-2af6f52e9988.png)
 ![image](https://user-images.githubusercontent.com/11480617/214648207-b6111d76-ef22-4449-8d8d-125bbfa92f4c.png)
 ![image](https://user-images.githubusercontent.com/11480617/214649014-6b201055-6035-4c0d-b4d0-ef41ae4f40ba.png)
+![image](https://user-images.githubusercontent.com/11480617/214894685-75b8c177-7bfc-4d62-856d-fa39224af57d.png)
+
+### Affinity Diagram
+![image](https://user-images.githubusercontent.com/11480617/214896302-78aab501-e76f-4a11-a7e0-1d03667ad006.png)
+
+## Week 4 Sharing research insights for better designs
+As a reminder, research insights are observations about people that help you understand the user or their needs from new perspectives.
+![image](https://user-images.githubusercontent.com/11480617/214897708-ddf8414c-5a6d-4b07-ba27-b6e0eb1b6251.png)
+![image](https://user-images.githubusercontent.com/11480617/214897914-44b5186b-e898-4d7e-a212-0af6ef3e7720.png)
+![image](https://user-images.githubusercontent.com/11480617/214898003-99a19398-31dc-43ee-9804-2d52ab9beb53.png)
+![image](https://user-images.githubusercontent.com/11480617/214902771-7a89b16a-5876-4e5d-8dc7-8e976d4e948f.png)
