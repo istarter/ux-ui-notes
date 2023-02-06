@@ -871,3 +871,10 @@ As a reminder, research insights are observations about people that help you und
 ![image](https://user-images.githubusercontent.com/11480617/216273216-9d7ac849-1f94-469f-9554-1681e51f80b0.png)
 ![image](https://user-images.githubusercontent.com/11480617/216273573-c517ae8f-83e5-419f-bc2a-3a115e8f8ac9.png)
 ![image](https://user-images.githubusercontent.com/11480617/216281304-33740e1e-8d4e-4be8-a08a-cc392a81bf82.png)
+![image](https://user-images.githubusercontent.com/11480617/217050992-da1f3dcf-65c9-4d57-9d07-7b4b4892b058.png)
+
+
+# Course 5 | Create High Fidelity Design and Prototypes in Figma 
+
+![image](https://user-images.githubusercontent.com/11480617/217052622-ef2b6022-762a-4d00-bac4-ac65def8da9b.png)
+![image](https://user-images.githubusercontent.com/11480617/217053387-ff19dbe0-4b99-4271-a07c-d961c4176861.png)
