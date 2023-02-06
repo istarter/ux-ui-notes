@@ -878,3 +878,6 @@ As a reminder, research insights are observations about people that help you und
 
 ![image](https://user-images.githubusercontent.com/11480617/217052622-ef2b6022-762a-4d00-bac4-ac65def8da9b.png)
 ![image](https://user-images.githubusercontent.com/11480617/217053387-ff19dbe0-4b99-4271-a07c-d961c4176861.png)
+![image](https://user-images.githubusercontent.com/11480617/217058523-0cc9f670-9d21-41e5-89be-0f059327d2a5.png)
+![image](https://user-images.githubusercontent.com/11480617/217061928-995472ee-b897-4004-b37a-b64e09aa0afa.png)
+![image](https://user-images.githubusercontent.com/11480617/217062051-1c6f748c-bc5e-4011-833b-b24095ee9cb9.png)
