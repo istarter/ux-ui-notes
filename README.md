@@ -882,3 +882,4 @@ As a reminder, research insights are observations about people that help you und
 ![image](https://user-images.githubusercontent.com/11480617/217061928-995472ee-b897-4004-b37a-b64e09aa0afa.png)
 ![image](https://user-images.githubusercontent.com/11480617/217062051-1c6f748c-bc5e-4011-833b-b24095ee9cb9.png)
 - [Bakery App](https://www.nenadtanaskovic.com/work/bakery)
+- [Explain Color, Typegraphy and Icons here](https://docs.google.com/document/d/1CAgFp8jFDx122BpPJ77FGSKQE3vpo91cjqKOKDRBSdc/edit#)
