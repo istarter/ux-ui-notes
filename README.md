@@ -883,3 +883,8 @@ As a reminder, research insights are observations about people that help you und
 ![image](https://user-images.githubusercontent.com/11480617/217062051-1c6f748c-bc5e-4011-833b-b24095ee9cb9.png)
 - [Bakery App](https://www.nenadtanaskovic.com/work/bakery)
 - [Explain Color, Typegraphy and Icons here](https://docs.google.com/document/d/1CAgFp8jFDx122BpPJ77FGSKQE3vpo91cjqKOKDRBSdc/edit#)
+
+## Week 2 Applying visual design principles to mockups
+
+![image](https://user-images.githubusercontent.com/11480617/218455179-c1d40be0-9e40-42f4-a492-ef8e987d11b6.png)
+![image](https://user-images.githubusercontent.com/11480617/218455370-236a7401-a86f-453f-b30d-1ef6cae7d764.png)
