@@ -904,3 +904,23 @@ As a reminder, research insights are observations about people that help you und
 ![image](https://user-images.githubusercontent.com/11480617/219940638-2a5e09e3-b3b6-4f9e-a18d-80034ef093f8.png)
 ![image](https://user-images.githubusercontent.com/11480617/219940698-5aa3637a-f6cb-4e2f-9c2e-297d26b70fc3.png)
 ![image](https://user-images.githubusercontent.com/11480617/219969609-60bbdd12-d130-4e8a-b59b-dd79a41182da.png)
+- [portfolio googler](https://www.tongfangsun.xyz/design)
+
+##  Weeek 3 Understand design systems 
+![image](https://user-images.githubusercontent.com/11480617/220328386-dc38b673-7b9b-4ddd-9637-42875362e10f.png)
+![image](https://user-images.githubusercontent.com/11480617/220329005-a5920461-2047-405d-8402-198ce624955a.png)
+![image](https://user-images.githubusercontent.com/11480617/220329126-f431c2cc-9a33-48f2-a0bf-c699186bb1d7.png)
+![image](https://user-images.githubusercontent.com/11480617/220330146-86686cd4-92b4-438d-bea2-35ece843ff61.png)
+![image](https://user-images.githubusercontent.com/11480617/220329941-3d7ce1c9-e73c-4342-b2a1-50738b9c57e5.png)
+
+
+
+
+
+
+
+
+
+
+
+
