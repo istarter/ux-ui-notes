@@ -912,11 +912,14 @@ As a reminder, research insights are observations about people that help you und
 ![image](https://user-images.githubusercontent.com/11480617/220329126-f431c2cc-9a33-48f2-a0bf-c699186bb1d7.png)
 ![image](https://user-images.githubusercontent.com/11480617/220330146-86686cd4-92b4-438d-bea2-35ece843ff61.png)
 ![image](https://user-images.githubusercontent.com/11480617/220329941-3d7ce1c9-e73c-4342-b2a1-50738b9c57e5.png)
+![image](https://user-images.githubusercontent.com/11480617/220579987-baf7b9d1-763f-4cf9-8b3a-c0912d672583.png)
+![image](https://user-images.githubusercontent.com/11480617/220582636-bc8c7bf8-993e-492b-a724-0d5fa42e3cfa.png)
+![image](https://user-images.githubusercontent.com/11480617/220698029-c4cdfb70-5c38-43ae-935d-ef7fa27e72b9.png)
+![image](https://user-images.githubusercontent.com/11480617/220698200-90c17006-8b1f-4282-990c-a4cdb9ba12d7.png)
+![image](https://user-images.githubusercontent.com/11480617/220736238-26dde79b-ce1b-49ec-a984-9bd79e8bd4b8.png)
+[Design System Figma](https://www.youtube.com/watch?v=EK-pHkc5EL4&list=PLXDU_eVOJTx6ZQswH9nVKVMCsK83OzhoV&ab_channel=Figma)
 
-
-
-
-
+![image](https://user-images.githubusercontent.com/11480617/220749008-c4070101-03b8-495f-9e55-c1c698f5c07a.png)
 
 
 
