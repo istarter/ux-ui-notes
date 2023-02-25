@@ -941,6 +941,16 @@ As a reminder, research insights are observations about people that help you und
 ![image](https://user-images.githubusercontent.com/11480617/221236065-ccad791e-3a3e-4561-a22e-f73656d329c2.png)
 ![image](https://user-images.githubusercontent.com/11480617/221236278-2eec4dfa-4785-4f58-8068-5dc0d40bdd7d.png)
 ![image](https://user-images.githubusercontent.com/11480617/221241210-f9903122-99fb-4153-86e4-bfaa1a5ae19f.png)
+![image](https://user-images.githubusercontent.com/11480617/221361584-19fcaab3-c5c2-491f-8bfc-dc978323b340.png)
+![image](https://user-images.githubusercontent.com/11480617/221361650-a37792ee-0e3e-4068-aef7-757854064d47.png)
+![image](https://user-images.githubusercontent.com/11480617/221361753-74fe435f-28ac-4419-a516-867505cade6b.png)
+![image](https://user-images.githubusercontent.com/11480617/219969609-60bbdd12-d130-4e8a-b59b-dd79a41182da.png)
+![image](https://user-images.githubusercontent.com/11480617/221362342-a2b0c1b8-82ba-406e-a021-c414c1a43d99.png)
+![image](https://user-images.githubusercontent.com/11480617/221362428-14ef8e12-4649-482e-b523-2728bd32ffbb.png)
+![image](https://user-images.githubusercontent.com/11480617/221362516-1dcad99e-3a4c-4fd5-b752-fde730d96d90.png)
+![image](https://user-images.githubusercontent.com/11480617/221362727-d92cee93-8239-4477-8194-d5c5d1457e88.png)
+![image](https://user-images.githubusercontent.com/11480617/221362748-6dae0d9c-1cae-4aa4-8eb5-03e0873726d6.png)
+![image](https://user-images.githubusercontent.com/11480617/221364058-76a58b93-609a-4ec1-8a68-a8455a1587b4.png)
 
 
 
