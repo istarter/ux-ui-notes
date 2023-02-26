@@ -952,5 +952,14 @@ As a reminder, research insights are observations about people that help you und
 ![image](https://user-images.githubusercontent.com/11480617/221362748-6dae0d9c-1cae-4aa4-8eb5-03e0873726d6.png)
 ![image](https://user-images.githubusercontent.com/11480617/221364058-76a58b93-609a-4ec1-8a68-a8455a1587b4.png)
 
+## Week 6 Plan a Usability Study
+![image](https://user-images.githubusercontent.com/11480617/221410558-b3c7ce71-964a-4275-a0dd-909ddd8a7568.png)
+![image](https://user-images.githubusercontent.com/11480617/221410584-3b1e780e-1b16-4711-80bd-ff19cb459bab.png)
+![image](https://user-images.githubusercontent.com/11480617/221412021-5cbabcd0-d156-42e0-93a6-5e4de10b01e8.png)
+![image](https://user-images.githubusercontent.com/11480617/221412058-164ce53e-8f50-4401-bb9c-f68c2fa622c9.png)
+![image](https://user-images.githubusercontent.com/11480617/221412098-4ab5629e-1b4b-44fd-b527-a345deac6346.png)
+![image](https://user-images.githubusercontent.com/11480617/221412342-645619a8-c72f-4187-bb9e-9185ef5afb6f.png)
+![image](https://user-images.githubusercontent.com/11480617/221429899-b9f633f9-e0a9-4e86-92b6-05dbf340b645.png)
+
 
 
