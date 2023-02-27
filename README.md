@@ -960,6 +960,18 @@ As a reminder, research insights are observations about people that help you und
 ![image](https://user-images.githubusercontent.com/11480617/221412098-4ab5629e-1b4b-44fd-b527-a345deac6346.png)
 ![image](https://user-images.githubusercontent.com/11480617/221412342-645619a8-c72f-4187-bb9e-9185ef5afb6f.png)
 ![image](https://user-images.githubusercontent.com/11480617/221429899-b9f633f9-e0a9-4e86-92b6-05dbf340b645.png)
+![image](https://user-images.githubusercontent.com/11480617/221519335-e824d938-1cbc-477a-8381-0bc35e86ee88.png)
+![image](https://user-images.githubusercontent.com/11480617/221536011-06fdda27-56a7-4fda-9838-839efe2f0293.png)
+![image](https://user-images.githubusercontent.com/11480617/221536482-e1d0b0ca-ce33-4a64-af73-b2547ed0f7b8.png)
+![image](https://user-images.githubusercontent.com/11480617/221537013-da57486e-b269-42e6-a022-87fc20806101.png)
+![image](https://user-images.githubusercontent.com/11480617/221519335-e824d938-1cbc-477a-8381-0bc35e86ee88.png)
+![image](https://user-images.githubusercontent.com/11480617/221565891-606803cf-10a6-46d8-8801-9e493770d515.png)
+![image](https://user-images.githubusercontent.com/11480617/221566152-119c1a76-8c9d-4d78-a622-c1031977e685.png)
+![image](https://user-images.githubusercontent.com/11480617/221625513-8cdd07dc-bcac-46c5-9064-3edbcb439b6d.png)
+[How to Write a UX Case Study: Template and Examples](https://xd.adobe.com/ideas/perspectives/leadership-insights/ux-case-study-template/)
+[Portfolio Josh](https://joshglucas.com/project/mechmarket)
+![image](https://user-images.githubusercontent.com/11480617/221635012-2715a1c7-4b6d-4888-bbe7-163b32373312.png)
 
 
-
+# Course 6 Responsive Web Design in Adobe XD
+![image](https://user-images.githubusercontent.com/11480617/221644300-e6e8d651-5244-4121-b2ad-7b2eebee9034.png)
