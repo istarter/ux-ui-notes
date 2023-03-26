@@ -998,7 +998,7 @@ As a reminder, research insights are observations about people that help you und
 ![image](https://user-images.githubusercontent.com/11480617/222511454-f8acf90e-fd4f-4596-bfe9-9d3d6535f7f2.png)
 ![image](https://user-images.githubusercontent.com/11480617/222511637-7f6b248a-c49e-4501-8551-77c9264cb92f.png)
 
-## Week 2 Create Paper Wireframes
+## Week 3 Create Paper Wireframes
 
 ![image](https://user-images.githubusercontent.com/11480617/223506967-8f034e56-d368-4f8d-877e-48a62685ca38.png)
 ![image](https://user-images.githubusercontent.com/11480617/223507185-34f1cf08-50ba-46cb-abc8-9e854fe3591e.png)
