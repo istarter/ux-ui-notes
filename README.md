@@ -1034,7 +1034,7 @@ As a reminder, research insights are observations about people that help you und
 ![image](https://user-images.githubusercontent.com/11480617/228388292-c657e24e-cc81-4903-8013-e596fc464513.png)
 ![image](https://user-images.githubusercontent.com/11480617/228388427-c82d3915-040f-4cfa-ba84-e980960306ba.png)
 
-## Week 6 Create and test a low-fidelity prototype
+## Week 6 Document design work and search for jobs
 ![image](https://user-images.githubusercontent.com/11480617/228518638-029e3cf1-3515-4099-89b9-ef33f3dc29ab.png)
 ![image](https://user-images.githubusercontent.com/11480617/228521233-52f30b8b-1fa5-4b9b-83ff-15b4ffc72ffe.png)
 ![image](https://user-images.githubusercontent.com/11480617/228521587-e6dba1f1-257e-4dfe-a81e-6152f795ee7d.png)
@@ -1050,3 +1050,8 @@ As a reminder, research insights are observations about people that help you und
 ![image](https://user-images.githubusercontent.com/11480617/228559351-dd2c1496-f20c-4f60-ace1-289fee6c1346.png)
 ![image](https://user-images.githubusercontent.com/11480617/228560601-36e3d022-6166-40ed-aedb-f5828f392c91.png)
 ![image](https://user-images.githubusercontent.com/11480617/228568660-acae2f6d-ed45-4f5f-a34d-8a7e1c0fcd3c.png)
+![image](https://user-images.githubusercontent.com/11480617/228594317-82c77a73-9105-4fcf-bdff-c527fef3d9d2.png)
+![image](https://user-images.githubusercontent.com/11480617/228616757-eba39014-9f34-4b9c-bf9a-1ea485c4e694.png)
+- [UX Resume](https://bestfolios.medium.com/10-amazing-designer-resumes-that-passed-googles-bar-deedb315ec47)
+
+# Course 7 Design a User Experience for Social Good & Prepare for Jobs
