@@ -1055,3 +1055,13 @@ As a reminder, research insights are observations about people that help you und
 - [UX Resume](https://bestfolios.medium.com/10-amazing-designer-resumes-that-passed-googles-bar-deedb315ec47)
 
 # Course 7 Design a User Experience for Social Good & Prepare for Jobs
+![image](https://user-images.githubusercontent.com/11480617/229185152-a8479171-9091-48b9-b8a8-037c20356b23.png)
+![image](https://user-images.githubusercontent.com/11480617/229185369-cad2480e-2926-41c0-8bb5-7ac91971336a.png)
+![image](https://user-images.githubusercontent.com/11480617/229185552-203618ef-4735-45b9-af6a-f60b30a07f1d.png)
+![image](https://user-images.githubusercontent.com/11480617/229242529-63f2538b-6fc3-4a2b-b1c9-58cb58a05110.png)
+![image](https://user-images.githubusercontent.com/11480617/229242611-e951a8da-d2f9-44cf-93f5-5ea9fd8f25df.png)
+![image](https://user-images.githubusercontent.com/11480617/229242631-0320f329-d4e2-40c2-b387-ce2f759fef5e.png)
+![image](https://user-images.githubusercontent.com/11480617/229242712-e3d56f56-4e4c-4725-977b-5876ce7e141b.png)
+![image](https://user-images.githubusercontent.com/11480617/229242826-647ee32c-a48b-455c-b75e-b92c46e989a0.png)
+![image](https://user-images.githubusercontent.com/11480617/229242947-f1092bd8-1cf5-4c5a-90c0-221a1f8f332d.png)
+![image](https://user-images.githubusercontent.com/11480617/229243269-dd1371d7-5ccf-4062-b50b-bceb3765b1b6.png)
