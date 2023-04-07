@@ -1082,3 +1082,35 @@ As a reminder, research insights are observations about people that help you und
 ![image](https://user-images.githubusercontent.com/11480617/229639100-8f9b06dd-40ab-45bd-93f7-4f129f3eb471.png)
 ![image](https://user-images.githubusercontent.com/11480617/229932977-4c0f5188-41ed-4cd8-b4c4-81f904bc2bc5.png)
 ![image](https://user-images.githubusercontent.com/11480617/229934976-0cf05286-5c3c-466b-8320-d603bcd84f62.png)
+## Week 2 Creating wireframes and low-fidelity protoypes 
+![image](https://user-images.githubusercontent.com/11480617/230514167-29855605-f463-4cd1-ba92-c9bbbbe1cc15.png)
+![image](https://user-images.githubusercontent.com/11480617/230514294-823fc968-da3c-48e8-bc3f-6d2a3948fb9c.png)
+![image](https://user-images.githubusercontent.com/11480617/230514392-1b087011-8470-442c-a31f-71c75a12109d.png)
+![image](https://user-images.githubusercontent.com/11480617/230514525-838fa47d-b2a0-402e-a2ea-64392ccf5d4f.png)
+![image](https://user-images.githubusercontent.com/11480617/230515881-0df3c70d-752c-4ecf-a32d-35f4512b8a63.png)
+![image](https://user-images.githubusercontent.com/11480617/230624639-50b55046-b76e-4dca-b36c-61c8610faa07.png)
+![image](https://user-images.githubusercontent.com/11480617/230625237-cdbf87f3-db80-42f8-a595-f4bba8aeec9a.png)
+Learn more about planning a UX research study
+It’s the moment of truth: You’re preparing to test the low-fidelity prototype of your dedicated mobile app with real users! 
+
+If you’ve been taking the courses of this certificate program in order, then you’ve conducted usability studies on your prototypes before. You likely remember how to plan a UX research study, and you're probably ready to get started! But if you’re new to the certificate program or if you’d like a quick refresher, review these resources from an earlier course about planning a UX research study. 
+
+First, watch this video to get to know the seven elements of a research plan at a high level. 
+
+Then, check out the following videos and readings that dive into each of the seven elements, and build your own research plan as you go!
+
+- Project background, research goals, research questions. The project background summarizes the situation that led to the need for this research. The research goals lay out what you’re trying to solve with this design or what you’d like the outcomes of the research to be. And the research questions outline the questions you need the study to answer.
+
+- Key Performance Indicators (KPIs). Remember, KPIs are the critical measures of progress toward an end goal. If you want to learn more about KPIs, check out this reading about how to use key performance indicators (KPIs) too.
+
+- Methodology. List the steps you plan to take when conducting the usability study.
+
+- Participants. Describe how and where you'll recruit participants for the usability study. If you want to learn more about participants, check out this reading about recruiting a diverse participant pool too.
+
+ - Script. Organize, prepare, and properly phrase interview questions.
+
+Along with these resources, you can use this template for a UX research plan. You can fill in each section of the plan as you watch the videos listed above. 
+
+To use the UX research study template , click the link below and select “Use Template.” 
+
+Link to template: UX Research Study - Plan [Template].
