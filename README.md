@@ -1122,5 +1122,12 @@ Link to template: UX Research Study - Plan [Template].
 ![image](https://user-images.githubusercontent.com/11480617/230685980-ddb5c3de-78be-43fc-aa46-9e18725f339f.png)
 ![image](https://user-images.githubusercontent.com/11480617/230686145-13a59420-d5db-4645-a083-c480a666748e.png)
 
-## Week 3 
+## Week 3 Creating mockups and high-fidelity prototypes
 ![image](https://user-images.githubusercontent.com/11480617/230694160-2bdedb03-0bd2-48ea-a9e5-d6a52275f7f4.png)
+![image](https://user-images.githubusercontent.com/11480617/230698774-f084b8e0-ac83-4ef8-bb14-6bba6242c5c4.png)
+![image](https://user-images.githubusercontent.com/11480617/230698801-24201888-04d4-4c2e-8b78-4d1e660711aa.png)
+![image](https://user-images.githubusercontent.com/11480617/230698904-f90af5a7-fc89-47e8-8f47-24869d9ecb21.png)
+![image](https://user-images.githubusercontent.com/11480617/230699193-69fc34b5-a9a7-4195-a4ad-5f8cdda6d1f9.png)
+- [High Prototype](https://www.figma.com/proto/0NkVYs4w6fBHu0NggpTSpR/Google-UX-Design---Food-Saver-high-fidelity-prototype---app?page-id=0%3A1&node-id=1-109&viewport=440%2C358%2C0.1458813101053238&scaling=min-zoom)
+ 
+ 
