@@ -1114,3 +1114,13 @@ Along with these resources, you can use this template for a UX research plan. Yo
 To use the UX research study template , click the link below and select “Use Template.” 
 
 Link to template: UX Research Study - Plan [Template].
+
+![image](https://user-images.githubusercontent.com/11480617/230685051-26359e55-3901-4dba-998e-120647056c56.png)
+![image](https://user-images.githubusercontent.com/11480617/230685270-c72cc114-22d5-473b-982d-64826d4e9f22.png)
+![image](https://user-images.githubusercontent.com/11480617/230685312-db899046-6696-47bd-9643-d77a2ccb8af2.png)
+![image](https://user-images.githubusercontent.com/11480617/230685346-95bcbab1-1d97-40bb-8acc-8b09ccff5b10.png)
+![image](https://user-images.githubusercontent.com/11480617/230685980-ddb5c3de-78be-43fc-aa46-9e18725f339f.png)
+![image](https://user-images.githubusercontent.com/11480617/230686145-13a59420-d5db-4645-a083-c480a666748e.png)
+
+## Week 3 
+![image](https://user-images.githubusercontent.com/11480617/230694160-2bdedb03-0bd2-48ea-a9e5-d6a52275f7f4.png)
