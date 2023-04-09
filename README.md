@@ -1151,3 +1151,59 @@ Link to template: UX Research Study - Plan [Template].
 ![image](https://user-images.githubusercontent.com/11480617/230780426-27d554bc-4656-406d-8314-49105837cdc2.png)
 ![image](https://user-images.githubusercontent.com/11480617/230780588-8b5d18bb-6ea2-45d7-8588-d77250f95d8a.png)
 ![image](https://user-images.githubusercontent.com/11480617/230779642-4ce73e28-b514-40bf-a478-e3db486459e6.png)
+
+## Week 5 Building a professional presence
+
+Question 1
+Activity Introduction with a lightbulb icon
+In this activity, you'll examine example portfolios from entry-level UX designers at Google. You'll consider what you like about these portfolios and why. This will help you start to think about how you'll design your own portfolio website in the future! 
+
+Keep in mind, there’s no “right” way to build a portfolio. Every designer, recruiter, and client has a different idea about what should be featured in a UX design portfolio. Examining lots of portfolios will give you ideas and inspiration to apply to your own portfolio. 
+
+Step-by-step instructions with a clipboard icon
+To review example portfolios from entry-level UX designers at Google, follow the steps below.
+
+Step 1: Access the template
+To use the template for this course item, click the link below and select “Use Template.” 
+
+Link to template: essentials of a good portfolio template. 
+
+OR 
+
+If you don’t have a Google account, you can download the template directly from the attachment below.
+
+
+If you would like to learn more about working in word processing programs in order to complete this activity, check out the Resources tab on the left side of the screen. 
+
+Step 2: Choose portfolios to examine
+Review the list of entry-level UX designers at Google below. Choose three portfolios from this list, and copy and paste the portfolio URL into the first column of the template.
+
+- Lisa - www.lisasuefischer.com
+- Shabi - www.shabnamkashani.com
+- Nicolas - www.nicolaspellegrino.com
+- Josh - joshglucas.com
+- Kartik - www.kartikrao.in
+- Kaiwei - kaiwei.design
+- Tongfang - www.tongfangsun.xyz
+- Penny - pennybanks.com
+
+Step 3: Answer the questions in the template
+Answer the questions in the template for each portfolio that you chose to review. Then, in the column to the far right, share which portfolio stood out to you in each category and why. 
+
+- How does the portfolio establish the designer’s personal brand? (What type of first impression do each of these three designers make?) As a designer, your personal brand is how your personality, unique skills, and values intersect with your public persona. Your brand is the first impression you make! A personal brand should clearly demonstrate who you are as a designer and what makes you interesting. 
+
+- Is the navigation simple and intuitive? The navigation is the way users get from page to page on a website. Users should be able to reach the homepage from any part of your site. And your navigation should lead them from one project to the next. It should also be easy for users to navigate to a contact page that includes an email address, a copy of a resume, and links to other professional social media accounts.
+
+- Does the portfolio website go beyond the template? Although a website builder’s pre-designed layouts make it easy to get started, you need to go a step further. Portfolio designers can customize their websites to align with their brand and the story they want to tell. For example, designers should remove the text that comes pre-loaded in the template, and replace it with their own content. It's also helpful to register their own domain name, so their website’s address doesn’t contain the name of the website builder.
+
+- Does the portfolio website include a diversity of projects? Each portfolio should have 3-6 projects that demonstrate the designer’s skills. Note whether each portfolio contains a diversity of projects.
+
+- Is the site housing the portfolio responsive? Responsive means the on-screen appearance of the website adjusts based on the user’s device. So whether someone engages with the website on a desktop computer or mobile phone, they will have a positive experience. 
+![image](https://user-images.githubusercontent.com/11480617/230795098-63208eda-5b34-48a9-a3fd-7c1bcab33b8e.png)
+![image](https://user-images.githubusercontent.com/11480617/230796931-811bacae-7c59-4b95-b928-8e0c691a1c4c.png)
+![image](https://user-images.githubusercontent.com/11480617/230797116-7c8bf5b2-cfe6-4948-97e4-23221da64f7f.png)
+![image](https://user-images.githubusercontent.com/11480617/230797142-07d0a13d-7270-47c6-9860-9e30424ad5a9.png)
+![image](https://user-images.githubusercontent.com/11480617/230797322-23dfdcea-0d1f-4bb7-a8fa-b12079a71445.png)
+![image](https://user-images.githubusercontent.com/11480617/230798774-f0f2f0b5-72d6-4e49-9333-2e53992d0788.png)
+![image](https://user-images.githubusercontent.com/11480617/230798820-3bf9324c-fc37-49d2-a655-23663ead7aff.png)
+![image](https://user-images.githubusercontent.com/11480617/230798967-ab96ce60-c7ff-49b7-9acc-05e4185b2b23.png)
