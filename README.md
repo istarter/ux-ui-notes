@@ -1129,5 +1129,20 @@ Link to template: UX Research Study - Plan [Template].
 ![image](https://user-images.githubusercontent.com/11480617/230698904-f90af5a7-fc89-47e8-8f47-24869d9ecb21.png)
 ![image](https://user-images.githubusercontent.com/11480617/230699193-69fc34b5-a9a7-4195-a4ad-5f8cdda6d1f9.png)
 - [High Prototype](https://www.figma.com/proto/0NkVYs4w6fBHu0NggpTSpR/Google-UX-Design---Food-Saver-high-fidelity-prototype---app?page-id=0%3A1&node-id=1-109&viewport=440%2C358%2C0.1458813101053238&scaling=min-zoom)
+ - Wireframes are static images that provide an overview of the layout and hierarchy of the webpage. Mockups are static, high-fidelity designs with visual and UI elements.
  
- 
+ ## Week 4 Designing a complementary responsive website
+![image](https://user-images.githubusercontent.com/11480617/230744434-52fbe6fa-b088-48bc-9bae-d7f5114edb62.png)
+![image](https://user-images.githubusercontent.com/11480617/230745091-5a213e11-78c2-4a5c-8a71-70a31e26243d.png)
+![image](https://user-images.githubusercontent.com/11480617/230745320-6f69ddf0-c191-4d41-a4ad-811cfbc7d7ef.png)
+![image](https://user-images.githubusercontent.com/11480617/230745443-fec8bac8-2d57-493a-9d20-1bf84c57b520.png)
+![image](https://user-images.githubusercontent.com/11480617/230745499-8875e2f8-26a6-4453-aba7-8f2fccb86bb9.png)
+![image](https://user-images.githubusercontent.com/11480617/230745572-6dce4bad-51ba-4546-a522-845ab31eec73.png)
+![image](https://user-images.githubusercontent.com/11480617/230745670-f6517635-12a1-403d-acb9-b361387701de.png)
+![image](https://user-images.githubusercontent.com/11480617/230745731-0726d0f6-cfdd-46fb-9a98-9fa4b6f1b4be.png)
+![image](https://user-images.githubusercontent.com/11480617/230746212-6a097f18-3fee-457b-9302-8184f1c91fd3.png)
+![image](https://user-images.githubusercontent.com/11480617/230746250-21aa7a4b-04e8-46b5-9090-733d4eabbd17.png)
+![image](https://user-images.githubusercontent.com/11480617/230747005-75767c97-75b0-42e9-b3bb-b73a19ce306e.png)
+![image](https://user-images.githubusercontent.com/11480617/230747130-fa556f23-c0c4-411c-aee4-b85f6ba6e9ac.png)
+![image](https://user-images.githubusercontent.com/11480617/230747278-194fe29c-6b0b-428b-a777-bff62ffa1de7.png)
+![image](https://user-images.githubusercontent.com/11480617/230747308-72c3e8ef-ff2a-4d21-a403-9c4704110496.png)
