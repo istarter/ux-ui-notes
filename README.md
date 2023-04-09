@@ -1146,3 +1146,8 @@ Link to template: UX Research Study - Plan [Template].
 ![image](https://user-images.githubusercontent.com/11480617/230747130-fa556f23-c0c4-411c-aee4-b85f6ba6e9ac.png)
 ![image](https://user-images.githubusercontent.com/11480617/230747278-194fe29c-6b0b-428b-a777-bff62ffa1de7.png)
 ![image](https://user-images.githubusercontent.com/11480617/230747308-72c3e8ef-ff2a-4d21-a403-9c4704110496.png)
+![image](https://user-images.githubusercontent.com/11480617/230779642-4ce73e28-b514-40bf-a478-e3db486459e6.png)
+![image](https://user-images.githubusercontent.com/11480617/230780082-7897a987-b874-4f2c-999c-b32f1fe40f4a.png)
+![image](https://user-images.githubusercontent.com/11480617/230780426-27d554bc-4656-406d-8314-49105837cdc2.png)
+![image](https://user-images.githubusercontent.com/11480617/230780588-8b5d18bb-6ea2-45d7-8588-d77250f95d8a.png)
+![image](https://user-images.githubusercontent.com/11480617/230779642-4ce73e28-b514-40bf-a478-e3db486459e6.png)
