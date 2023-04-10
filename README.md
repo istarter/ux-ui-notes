@@ -1199,6 +1199,7 @@ Answer the questions in the template for each portfolio that you chose to review
 - Does the portfolio website include a diversity of projects? Each portfolio should have 3-6 projects that demonstrate the designer’s skills. Note whether each portfolio contains a diversity of projects.
 
 - Is the site housing the portfolio responsive? Responsive means the on-screen appearance of the website adjusts based on the user’s device. So whether someone engages with the website on a desktop computer or mobile phone, they will have a positive experience. 
+- ***Design***: The third stage in the product development lifecycle is design. In the design stage, UX designers begin to actively develop ideas, and they also check that all specifications from the define stage are realistic. The first two stages are more about preparation and planning. They give you a clear understanding of who the user is, what the user wants, and which problems or challenges you want to address in your design. Using the insights from the first two stages, UX designers generate designs that keep the user top of mind. You'll create many different assets, including storyboards, which are sketches that help explore the user's experience, or wireframes, which provide outlines of the content layout. Or you might create prototypes, which are models that allow UX designers to test the functionality of a design. All of these things will be covered later in the program.
 ![image](https://user-images.githubusercontent.com/11480617/230795098-63208eda-5b34-48a9-a3fd-7c1bcab33b8e.png)
 ![image](https://user-images.githubusercontent.com/11480617/230796931-811bacae-7c59-4b95-b928-8e0c691a1c4c.png)
 ![image](https://user-images.githubusercontent.com/11480617/230797116-7c8bf5b2-cfe6-4948-97e4-23221da64f7f.png)
@@ -1208,3 +1209,10 @@ Answer the questions in the template for each portfolio that you chose to review
 ![image](https://user-images.githubusercontent.com/11480617/230798820-3bf9324c-fc37-49d2-a655-23663ead7aff.png)
 ![image](https://user-images.githubusercontent.com/11480617/230798967-ab96ce60-c7ff-49b7-9acc-05e4185b2b23.png)
 ![image](https://user-images.githubusercontent.com/11480617/230801366-ef466c77-cf02-4a83-b382-6cb6e22ff563.png)
+![image](https://user-images.githubusercontent.com/11480617/231000788-3e72bc7d-f6ef-4854-a954-0cd6d7544c8b.png)
+![image](https://user-images.githubusercontent.com/11480617/231001031-e30da6a8-d7e4-4efd-9b39-87ae4bd1beba.png)
+![image](https://user-images.githubusercontent.com/11480617/231001388-90f77f93-324e-4900-a30b-eb3b78d916a1.png)
+![image](https://user-images.githubusercontent.com/11480617/231003236-27769da0-b9ee-4565-8875-b5a4adcc61fe.png)
+![image](https://user-images.githubusercontent.com/11480617/231001975-4e1d6e04-9a06-4037-97ed-0916e1080145.png)
+
+## Week 5 Finding a UX job
