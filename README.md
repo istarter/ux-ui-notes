@@ -1215,4 +1215,5 @@ Answer the questions in the template for each portfolio that you chose to review
 ![image](https://user-images.githubusercontent.com/11480617/231003236-27769da0-b9ee-4565-8875-b5a4adcc61fe.png)
 ![image](https://user-images.githubusercontent.com/11480617/231001975-4e1d6e04-9a06-4037-97ed-0916e1080145.png)
 
-## Week 5 Finding a UX job
+## Week 6 Finding a UX job
+![image](https://user-images.githubusercontent.com/11480617/231008379-17e50b4e-e5e3-4424-9577-184c86fb165c.png)
