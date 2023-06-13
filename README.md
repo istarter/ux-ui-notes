@@ -1,5 +1,5 @@
 ### Free Resources
-[Icon Finder](https://github.com/istarter/ux-ui-notes/")
+[Icon Finder](https://www.iconfinder.com/")
 
 
 # UX/UI Design 
