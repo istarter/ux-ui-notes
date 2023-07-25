@@ -5,6 +5,8 @@
 - [UXarchive free designs screens ](https://www.producthunt.com/")
 - [simform free designs screens](https://www.simform.com/mobile-patterns/")
 - [Awwwards.com](https://www.awwwards.com/")
+- [CSSdesignawards free designs ](cssdesignawards.com")
+- [Onepagelove free designs](https://onepagelove.com/")
 
 # UX/UI Design 
 
