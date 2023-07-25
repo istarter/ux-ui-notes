@@ -1,9 +1,9 @@
 ### Free Resources
-[Icon Finder](https://www.iconfinder.com/")
-[Screenlane free ui designs](https://screenlane.com/")
-[UXarchive free designs screens ](https://uxarchive.com/")
-[UXarchive free designs screens ](https://www.producthunt.com/")
-[simform free designs screens](https://www.simform.com/mobile-patterns/")
+- [Icon Finder](https://www.iconfinder.com/")
+- [Screenlane free ui designs](https://screenlane.com/")
+- [UXarchive free designs screens ](https://uxarchive.com/")
+- [UXarchive free designs screens ](https://www.producthunt.com/")
+- [simform free designs screens](https://www.simform.com/mobile-patterns/")
 
 # UX/UI Design 
 
