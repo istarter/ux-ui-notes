@@ -1,6 +1,9 @@
 ### Free Resources
 [Icon Finder](https://www.iconfinder.com/")
-
+[Screenlane free ui designs](https://screenlane.com/")
+[UXarchive free designs screens ](https://uxarchive.com/")
+[UXarchive free designs screens ](https://www.producthunt.com/")
+[simform free designs screens](https://www.simform.com/mobile-patterns/")
 
 # UX/UI Design 
 
@@ -145,7 +148,7 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
 ***What is sprint:*** A sprint is part of the core components of the agile methodology. The term refers to a predefined span of time in which a team will work to accomplish specific goals. This period may be any length, though sprints are usually fairly short (one or two weeks, for example).
 
 ### What makes a good design?
-   1. Content is King: Content gives you the context. what is the information that you are designing for. It deponds what's the design about it like app for kids etc then you decide fonts for that. Ask content from the client to make clear the context to design it based on the infromation cient give you. 
+   1. Content is King: Content gives you the context. what is the information that you are designing for. It deponds on what's the design about it like app for kids etc then you decide fonts for that. Ask content from the client to make clear the context to design it based on the infromation cient give you. 
    2. Layout: Do research on behance, dribble, pinterst now you have context. 
    3. Form or Shapes
    4. Colours
