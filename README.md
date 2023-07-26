@@ -1449,3 +1449,14 @@ What is the next step in the interview process, and is there any additional info
 ![image](https://user-images.githubusercontent.com/11480617/231882177-dd666f76-9df5-4538-9a63-a4310b9a11cf.png)
 ![image](https://user-images.githubusercontent.com/11480617/231883745-fc0e9806-9e05-4199-b9e1-7ffeac107af9.png)
 ![image](https://user-images.githubusercontent.com/11480617/231898386-6f01a562-1a61-4dde-9b4f-725029326553.png)
+
+
+
+# UI Designing  Desktop and Mobile 
+
+### 12 Grid Column Setup & Mobile 
+
+![image](https://github.com/istarter/ux-ui-notes/assets/11480617/ca449a31-3fe2-4862-b86e-b475322acddf)
+![image](https://github.com/istarter/ux-ui-notes/assets/11480617/e4028f5d-c9bd-4f19-9c8a-a952176fbcfe)
+
+
