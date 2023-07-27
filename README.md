@@ -8,6 +8,11 @@
 - [CSSdesignawards free designs ](cssdesignawards.com")
 - [Onepagelove free designs](https://onepagelove.com/")
 
+  ### Color inspiration
+  - [Color Hunt](https://colorhunt.co/")
+  - [Color Adobe](https://color.adobe.com/create/color-wheel")
+  - [Grabient Gradient CSS](https://www.grabient.com/")
+
 # UX/UI Design 
 
 ### Theory UX Research
