@@ -12,6 +12,11 @@
   - [Color Hunt](https://colorhunt.co/")
   - [Color Adobe](https://color.adobe.com/create/color-wheel")
   - [Grabient Gradient CSS](https://www.grabient.com/")
+ 
+  ### Design Inspiration / Website / Figma
+
+  - [Design Code](https://designcode.io/")
+
 
 # UX/UI Design 
 
