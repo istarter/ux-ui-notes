@@ -13,9 +13,17 @@
   - [Color Adobe](https://color.adobe.com/create/color-wheel")
   - [Grabient Gradient CSS](https://www.grabient.com/")
  
-  ### Design Inspiration / Website / Figma
+  ### Design Inspiration / Website / Figma / Learn UX/UI
 
+  - [Choose design challenge](https://sharpen.design")
+  - [UX Challenges](https://uxtools.co/challenges")
+  - [Creative Challenge](https://www.behance.net/challenge/xd")
+  - [Choose Design Challange](https://www.briefz.biz")
+  - [Challenges](https://www.uplabs.com/challenges")
+  - [Level Up Your Design](https://www.uxchallenge.co")
   - [Design Code](https://designcode.io/")
+
+![image](https://github.com/istarter/ux-ui-notes/assets/11480617/091a5596-ebdb-412c-97e1-7c07897bd3ff)
 
 
 # UX/UI Design 
