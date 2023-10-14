@@ -15,15 +15,16 @@
  
   ### Design Inspiration / Website / Figma / Learn UX/UI
 
-  - [Choose design challenge](https://sharpen.design")
-  - [UX Challenges](https://uxtools.co/challenges")
-  - [Creative Challenge](https://www.behance.net/challenge/xd")
-  - [Choose Design Challange](https://www.briefz.biz")
-  - [Challenges](https://www.uplabs.com/challenges")
-  - [Level Up Your Design](https://www.uxchallenge.co")
-  - [Design Code](https://designcode.io/")
-  - [The best way to learn UX design](https://uxcel.com")
-  - [Instagram Case Study](https://bootcamp.uxdesign.cc/instagram-app-redesign-case-study-58465cf7a1b3")
+- [Choose design challenge](https://sharpen.design)
+- [UX Tools](https://uxtools.co/challenges)
+- [Creative Challenge](https://www.behance.net/challenge/xd)
+- [Choose Design Challange](https://www.briefz.biz)
+- [Challenges](https://www.uplabs.com/challenges)
+- [Level Up Your Design](https://www.uxchallenge.co)
+- [Design Code](https://designcode.io/)
+- [The best way to learn UX design](https://uxcel.com)
+- [Instagram Case Study](https://bootcamp.uxdesign.cc/instagram-app-redesign-case-study-58465cf7a1b3)
+
 
 ![image](https://github.com/istarter/ux-ui-notes/assets/11480617/091a5596-ebdb-412c-97e1-7c07897bd3ff)
 
