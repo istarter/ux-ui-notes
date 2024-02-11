@@ -25,6 +25,20 @@
 - [The best way to learn UX design](https://uxcel.com)
 - [Instagram Case Study](https://bootcamp.uxdesign.cc/instagram-app-redesign-case-study-58465cf7a1b3)
 
+### Mobbin Alternatives
+1. [UI Sources](https://www.uisources.com)
+2. [Mobile Patterns](https://www.mobilepatterns.com)
+3. [Pattern Collect](https://www.patterncollect.com)
+4. [Pttrns](https://www.pttrns.com)
+5. [Pixelfika](https://www.pixelfika.com)
+6. [UpLabs](https://www.uplabs.com)
+7. [Freepik](https://www.freepik.com)
+8. [UXArchive](https://www.uxarchive.com)
+9. [Unit UI Kit](https://www.unituikit.com)
+10. [Chamjo](https://www.chamjo.com)
+11. [Rowlab](https://www.rowlab.com)
+12. [Appshots](https://www.appshots.com)
+
 
 ![image](https://github.com/istarter/ux-ui-notes/assets/11480617/091a5596-ebdb-412c-97e1-7c07897bd3ff)
 
