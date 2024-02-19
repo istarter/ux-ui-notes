@@ -7,6 +7,8 @@
 - [Awwwards.com](https://www.awwwards.com/")
 - [CSSdesignawards free designs ](cssdesignawards.com")
 - [Onepagelove free designs](https://onepagelove.com/")
+- [Typography.com](https://www.typography.com/fonts/peristyle/overvie")
+- [Contra Freelance](https://contra.com/")
 
   ### Color inspiration
   - [Color Hunt](https://colorhunt.co/")
