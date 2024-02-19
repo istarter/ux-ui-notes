@@ -9,6 +9,7 @@
 - [Onepagelove free designs](https://onepagelove.com/")
 - [Typography.com](https://www.typography.com/fonts/peristyle/overvie")
 - [Contra Freelance](https://contra.com/")
+- [Asif Shah UX/Product designer](https://www.youtube.com/watch?v=zkFerNEVvtY&list=PL0vKVrkG4hWrLHcaP4xsDI-8tXX1lkbgF&index=1")
 
   ### Color inspiration
   - [Color Hunt](https://colorhunt.co/")
