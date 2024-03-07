@@ -27,6 +27,7 @@
 - [Design Code](https://designcode.io/)
 - [The best way to learn UX design](https://uxcel.com)
 - [Instagram Case Study](https://bootcamp.uxdesign.cc/instagram-app-redesign-case-study-58465cf7a1b3)
+- [Richardmille](https://www.richardmille.com/collections)
 
 ### Mobbin Alternatives
 1. [UI Sources](https://www.uisources.com)
