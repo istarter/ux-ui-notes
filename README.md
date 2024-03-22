@@ -12,6 +12,7 @@
 - [Asif Shah UX/Product designer](https://www.youtube.com/watch?v=zkFerNEVvtY&list=PL0vKVrkG4hWrLHcaP4xsDI-8tXX1lkbgF&index=1")
 - [Generate personas, journey map and interview script etc...](https://qoqo.ai/)
 - [Free Usability Testing Guide](https://www.linkedin.com/posts/sara-ali-mahran-50988a1b0_ux-uxdesign-usability-activity-7175919530190249984-IpBa?utm_source=share&utm_medium=member_desktop)
+- [Remove Image Background](https://pixian.ai/)
 
   ### Color inspiration
   - [Color Hunt](https://colorhunt.co/")
