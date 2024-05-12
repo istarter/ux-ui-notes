@@ -1,4 +1,5 @@
 ### Free Resources
+- [Github Max Repos and coding challenges](https://github.com/sdmg15/Best-websites-a-programmer-should-visit?tab=readme-ov-file#podcasts")
 - [Icon Finder](https://www.iconfinder.com/")
 - [Screenlane free ui designs](https://screenlane.com/")
 - [UXarchive free designs screens ](https://uxarchive.com/")
