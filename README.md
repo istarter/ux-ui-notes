@@ -128,9 +128,9 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
 3. ***Ideate:*** We finally get to the cool part here. The Design.
    1. We draw user flows, paper sketches / Low fi skecteches.
    2. The valuable asset we produce in this phase is "Wireframes"
-   3. Then we take the 'wires' and make high fidelity visual deisgns on tiop of it.
-   4. We finally link each screen to prototype.
-   5. Low fidility means sketches which draw by hand and high fidility are those which they high visuals. 
+   3. Then we take the 'wires' and make high-fidelity visual designs on top of it.
+   4. We finally link each screen to the prototype.
+   5. Low fidelity means sketches drawn by hand and high fidelity are those which they high visuals. 
 
 4. ***Iterate:*** Now, we have designed. It's time to give it a test drive.
    1. We send our prototypes to the stakeholders and users to test.
@@ -138,10 +138,10 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
    3. This process is repetitive until we finally arrive at a design.
    4. Iteration is part of the whole UX & UI process. 
 5. Jobs to be done framework
-6. User journey mapping: User journeys are the step by step journey that a user takes to reach thier goal. This journey will often consist of a number of website pages annd decision points that carry the user from one steop to another. 
+6. User journey mapping: User journeys are the step-by-step journey that a user takes to reach thier goal. This journey will often consist of a number of website pages annd decision points that carry the user from one steop to another. 
 ![image](https://www.awesomescreenshot.com/image/31391754?key=4c3c05fc98a5f76a4fce4ead9bc5e961)
-6. one to one user interviews (zoom, skype, google meet or in-person).
-7. What is brain mapping: Let's say you have provided a scenario and trying to understand the scenario or I would simply say understand the whole idea of the client what can be done the client can correct your mistake or the whole idea what he wants. On the basis of Brain mapping we make a flow chart. 
+6. One-to-one user interviews (zoom, skype, Google Meet or in-person).
+7. What is brain mapping: Let's say you have provided a scenario and are trying to understand the scenario or I would simply say understand the whole idea of the client and what can be done the client can correct your mistake or the whole idea of what he wants. On the basis of Brain mapping, we make a flow chart. 
 
 
 ### Industry standard tools for Screen Designs
@@ -1503,6 +1503,13 @@ What is the next step in the interview process, and is there any additional info
 ![image](https://github.com/istarter/ux-ui-notes/assets/11480617/e4028f5d-c9bd-4f19-9c8a-a952176fbcfe)
 
 
+# Mastering Visual Design Principles (Highly Recommended)
+
+![image](https://github.com/istarter/ux-ui-notes/assets/11480617/1f213c29-e27a-4ac8-a63b-5279b6aea34c)
+![image](https://github.com/istarter/ux-ui-notes/assets/11480617/642353e0-d791-497e-af58-e3675566ab48)
+![image](https://github.com/istarter/ux-ui-notes/assets/11480617/875e088a-cf75-4553-9ca0-f88063d66884)
+
+
 # Common Interview Questions and Answers
 ## UX Designer Interview Questions and Answers
 
@@ -1519,10 +1526,10 @@ I'm a fan of Airbnb's intuitive interface, Duolingo's gamified learning experien
 UX (User Experience) refers to the overall experience of a person using a product, especially in terms of its functionality and ease of use. UI (User Interface), on the other hand, is specifically about the visual elements of a product—the colors, buttons, icons, and all visual touchpoints the end-user interacts with.
 
 **5. Walk me through your workflow.**  
-I typically start with user research to understand the pain points and needs. Based on this, I create user personas and journey maps. I then sketch out wireframes, followed by prototyping. After testing the prototypes and iterating based on feedback, I work closely with developers during the implementation phase.
+I typically start with user research to understand the pain points and needs. Based on this, I create user personas and journey maps. I then sketch out wireframes, followed by prototyping. After testing the prototypes and iterating based on feedback, I worked closely with developers during the implementation phase.
 
 **6. What kind of research methods do you use?**  
-It depends on the project. I often use a combination of surveys, user interviews, A/B testing, and usability studies. I also employ analytics to study user behaviors and identify areas for improvement.
+It depends on the project. I often use a combination of surveys, user interviews, A/B testing, and usability studies. I also employ analytics to study user behaviours and identify areas for improvement.
 
 **7. How do you respond to negative feedback?**  
 I view negative feedback as an opportunity to learn and improve. It’s essential in UX to detach oneself from the product and remember it’s about the user’s experience. I usually ask for specifics and collaborate on finding the best solutions.
