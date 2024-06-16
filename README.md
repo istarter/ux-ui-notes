@@ -1503,13 +1503,6 @@ What is the next step in the interview process, and is there any additional info
 ![image](https://github.com/istarter/ux-ui-notes/assets/11480617/e4028f5d-c9bd-4f19-9c8a-a952176fbcfe)
 
 
-# Mastering Visual Design Principles (Highly Recommended)
-
-![image](https://github.com/istarter/ux-ui-notes/assets/11480617/1f213c29-e27a-4ac8-a63b-5279b6aea34c)
-![image](https://github.com/istarter/ux-ui-notes/assets/11480617/642353e0-d791-497e-af58-e3675566ab48)
-![image](https://github.com/istarter/ux-ui-notes/assets/11480617/875e088a-cf75-4553-9ca0-f88063d66884)
-
-
 # Common Interview Questions and Answers
 ## UX Designer Interview Questions and Answers
 
