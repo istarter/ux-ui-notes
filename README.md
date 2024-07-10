@@ -14,6 +14,7 @@
 - [Generate personas, journey map and interview script etc...](https://qoqo.ai/)
 - [Free Usability Testing Guide](https://www.linkedin.com/posts/sara-ali-mahran-50988a1b0_ux-uxdesign-usability-activity-7175919530190249984-IpBa?utm_source=share&utm_medium=member_desktop)
 - [Remove Image Background](https://pixian.ai/)
+- [Laws of UX](https://lawsofux.com/)
 
   ### Color inspiration
   - [Color Hunt](https://colorhunt.co/")
